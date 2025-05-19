@@ -1,0 +1,58 @@
+@model reviel.Models.Product
+
+@{
+    Layout = "_AdminLayout"; // Admin paneli için yeni layout'u kullan
+    ViewData["Title"] = "Ürünü Sil";
+}
+
+<h2>Ürünü Sil</h2>
+
+<h3>Bu ürünü silmek istediğinizden emin misiniz?</h3>
+<div>
+    <h4>Ürün Bilgileri</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Name)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Type)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Type)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Description)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Description)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.ImagePath)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.ImagePath)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Benefits)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Benefits)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.KeyIngredients)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.KeyIngredients)
+        </dd>
+    </dl>
+    
+    <form asp-action="DeleteProduct">
+        <input type="hidden" asp-for="Id" />
+        <input type="submit" value="Sil" class="btn btn-danger" /> |
+        <a asp-action="ViewProducts">İptal</a>
+    </form>
+</div>

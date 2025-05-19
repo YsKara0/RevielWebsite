@@ -1,0 +1,216 @@
+/* Bu dosya yalnızca hakkımızda sayfası için özel stilleri içermektedir */
+
+.about-container {
+    padding-top: 2rem;
+    max-width: 1200px;
+    min-height: calc(100vh - 180px);
+    display: flex;
+    flex-direction: column;
+}
+
+/* Başlık ve alt başlık stilleri */
+.about-heading {
+    color: #343a40;
+    font-weight: 700;
+    margin-bottom: 0.5rem;
+    font-size: 2.5rem;
+}
+
+.about-subheading {
+    color: #6c757d;
+    font-size: 1.1rem;
+    margin-bottom: 2.5rem;
+}
+
+/* Bölüm stilleri */
+.about-section {
+    margin-bottom: 4rem;
+    position: relative;
+}
+
+.about-section:not(:last-child)::after {
+    content: '';
+    position: absolute;
+    bottom: -2rem;
+    left: 10%;
+    width: 80%;
+    height: 1px;
+    background: linear-gradient(to right, transparent, rgba(121, 82, 179, 0.2), transparent);
+}
+
+.about-content {
+    padding: 1rem;
+}
+
+/* Alt başlık stilleri */
+.about-subtitle {
+    color: #7952b3; /* Mor renk - site temasına uygun */
+    font-weight: 600;
+    margin-bottom: 1.5rem;
+    font-size: 1.8rem;
+    position: relative;
+    padding-bottom: 0.8rem;
+}
+
+.about-subtitle::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 60px;
+    height: 3px;
+    background-color: #7952b3;
+}
+
+.about-content p {
+    color: #495057;
+    font-size: 1rem;
+    line-height: 1.7;
+    margin-bottom: 1.2rem;
+}
+
+/* Liste stilleri */
+.about-list {
+    list-style: none;
+    padding-left: 0;
+    margin-top: 1.5rem;
+}
+
+.about-list li {
+    position: relative;
+    padding-left: 1.8rem;
+    margin-bottom: 0.8rem;
+    font-size: 1rem;
+    color: #495057;
+}
+
+.about-list li::before {
+    content: '\f058'; /* Font Awesome check icon */
+    font-family: 'Font Awesome 5 Free';
+    font-weight: 900;
+    color: #7952b3;
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+
+/* Resim stilleri */
+.about-image-container {
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 8px 20px rgba(121, 82, 179, 0.15);
+    transition: transform 0.3s ease;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.about-image-container:hover {
+    transform: translateY(-5px);
+}
+
+.about-image {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+    object-fit: cover;
+}
+
+/* Değerler kartları */
+.values-row {
+    margin-top: 2rem;
+}
+
+.value-card {
+    background-color: #fff;
+    border-radius: 10px;
+    padding: 1.8rem;
+    height: 100%;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.08);
+    transition: all 0.3s ease;
+    text-align: center;
+}
+
+.value-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 12px 20px rgba(121, 82, 179, 0.2);
+}
+
+.value-icon {
+    font-size: 2.5rem;
+    margin-bottom: 1.2rem;
+    color: #7952b3;
+    height: 70px;
+    width: 70px;
+    line-height: 70px;
+    border-radius: 50%;
+    background: rgba(121, 82, 179, 0.1);
+    display: inline-block;
+    text-align: center;
+}
+
+.value-card h3 {
+    font-size: 1.3rem;
+    color: #343a40;
+    margin-bottom: 1rem;
+    font-weight: 600;
+}
+
+.value-card p {
+    font-size: 0.95rem;
+    color: #6c757d;
+    margin-bottom: 0;
+}
+
+/* Alıntı stilleri */
+.about-quote {
+    padding: 2rem;
+    margin: 2rem 0;
+    background-color: rgba(121, 82, 179, 0.05);
+    border-radius: 10px;
+}
+
+.about-quote blockquote {
+    font-size: 1.3rem;
+    color: #343a40;
+    font-style: italic;
+    margin-bottom: 1rem;
+    line-height: 1.6;
+}
+
+.about-quote cite {
+    font-size: 1rem;
+    color: #7952b3;
+    font-weight: 500;
+    font-style: normal;
+}
+
+/* Responsive ayarlar */
+@media (max-width: 992px) {
+    .about-section .order-lg-1 {
+        order: 1 !important;
+    }
+
+    .about-section .order-lg-2 {
+        order: 2 !important;
+    }
+
+    .about-image-container {
+        margin-bottom: 2rem;
+    }
+}
+
+@media (max-width: 768px) {
+    .about-heading {
+        font-size: 2rem;
+    }
+
+    .about-subtitle {
+        font-size: 1.5rem;
+    }
+
+    .about-quote blockquote {
+        font-size: 1.1rem;
+    }
+}

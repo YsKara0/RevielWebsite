@@ -1,0 +1,103 @@
+@{
+    ViewData["Title"] = "İletişim";
+}
+
+<link rel="stylesheet" href="~/css/contact.css" />
+
+<div class="container mt-5 contact-container">
+    <div class="row">
+        <div class="col-lg-12 text-center mb-5">
+            <h1 class="contact-heading">Bizimle İletişime Geçin</h1>
+            <p class="contact-subheading">Sorularınız, önerileriniz ve işbirliği talepleriniz için bize ulaşın</p>
+        </div>
+    </div>
+
+    <div class="row">
+        <!-- İletişim Formu -->
+        <div class="col-lg-7 mb-5">
+            <div class="contact-form-container">
+                <h3 class="form-title">Mesaj Gönderin</h3>
+                <form id="contactForm" method="post">
+                    <div class="mb-3">
+                        <label for="name" class="form-label">Adınız Soyadınız</label>
+                        <input type="text" class="form-control" id="name" name="name" required>
+                    </div>
+                    <div class="mb-3">
+                        <label for="email" class="form-label">Email Adresiniz</label>
+                        <input type="email" class="form-control" id="email" name="email" required>
+                    </div>
+                    <div class="mb-3">
+                        <label for="subject" class="form-label">Konu</label>
+                        <input type="text" class="form-control" id="subject" name="subject" required>
+                    </div>
+                    <div class="mb-3">
+                        <label for="message" class="form-label">Mesajınız</label>
+                        <textarea class="form-control" id="message" name="message" rows="5" required></textarea>
+                    </div>
+                    <button type="submit" class="btn btn-primary contact-submit">Gönder</button>
+                </form>
+            </div>
+        </div>
+
+        <!-- İletişim Bilgileri -->
+        <div class="col-lg-5 mb-5">
+            <div class="contact-info-container">
+                <h3 class="info-title">İletişim Bilgilerimiz</h3>
+                  <div class="contact-info-item">
+                    <div class="contact-icon">
+                        <i class="fas fa-map-marker-alt"></i>
+                    </div>
+                    <div class="contact-text">
+                        <h5>Adres</h5>
+                        <p>İstanbul Teknopol, Ahmet Yesevi, Kerem Sk. No:9, 34903 Pendik/İstanbul</p>
+                    </div>
+                </div>
+                
+                <div class="contact-info-item">
+                    <div class="contact-icon">
+                        <i class="fas fa-phone"></i>
+                    </div>
+                    <div class="contact-text">
+                        <h5>Telefon</h5>
+                        <p>+90 (212) 661 61 67</p>
+                    </div>
+                </div>
+                
+                <div class="contact-info-item">
+                    <div class="contact-icon">
+                        <i class="fas fa-envelope"></i>
+                    </div>
+                    <div class="contact-text">
+                        <h5>Email</h5>
+                        <p>info@reviel.com.tr</p>
+                    </div>
+                </div>
+                
+                <div class="contact-social">
+                    <h5>Sosyal Medya</h5>
+                    <div class="social-icons">
+                        <a href="#" class="social-icon"><i class="fab fa-facebook-f"></i></a>
+                        <a href="#" class="social-icon"><i class="fab fa-twitter"></i></a>
+                        <a href="#" class="social-icon"><i class="fab fa-instagram"></i></a>
+                        <a href="#" class="social-icon"><i class="fab fa-linkedin-in"></i></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>    <!-- Harita Bölümü -->
+    <div class="row">
+        <div class="col-12 mb-5">
+            <div class="contact-map-container">
+                <h3 class="map-title text-center mb-4">Bizi Bulun</h3>
+                <div class="contact-map">
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3015.0671147024595!2d29.2316583!3d40.911783700000004!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cad19aa78d5387%3A0x2a13e2075a4560a1!2zQWhtZXQgWWVzZXZpLCBLZXJlbSBTay4gTm86OSwgMzQ5MDMgUGVuZGlrL8Swc3RhbmJ1bA!5e0!3m2!1str!2str!4v1716623487540!5m2!1str!2str" 
+                        width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <script src="~/js/contact.js"></script>
+}

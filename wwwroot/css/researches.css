@@ -1,0 +1,116 @@
+/* Bu dosya yalnızca araştırmalar sayfası için özel stilleri içermektedir */
+
+.research-container {
+    padding-top: 2rem;
+    max-width: 1200px;
+    min-height: calc(100vh - 180px);
+    display: flex;
+    flex-direction: column;
+}
+
+/* Başlık ve alt başlık stilleri */
+.research-container .text-center h1 {
+    color: #343a40;
+    font-weight: 700;
+    margin-bottom: 0.5rem;
+    font-size: 2.5rem;
+}
+
+.research-container .text-center p {
+    color: #6c757d;
+    font-size: 1.1rem;
+    margin-bottom: 2.5rem;
+}
+
+/* Kart stilleri */
+.research-card {
+    border: none;
+    border-radius: 10px;
+    overflow: hidden;
+    transition: transform 0.3s, box-shadow 0.3s;
+    height: 100%;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+}
+
+.research-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.15);
+}
+
+.research-card .card-body {
+    padding: 1.5rem;
+}
+
+.research-card .card-title {
+    color: #7952b3; /* Mor renk - site temasına uygun */
+    font-weight: bold;
+    font-size: 1.4rem;
+    margin-bottom: 0.8rem;
+    border-bottom: 2px solid #f0f0f0;
+    padding-bottom: 0.8rem;
+}
+
+.research-card .card-subtitle {
+    font-size: 0.85rem;
+    margin-bottom: 1.2rem;
+    color: #6c757d;
+}
+
+.research-card .card-text {
+    color: #343a40;
+    font-size: 0.95rem;
+    margin-bottom: 1.5rem;
+    line-height: 1.6;
+    display: -webkit-box;
+    -webkit-line-clamp: 4;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+/* Buton stilleri */
+.research-card .btn-primary {
+    background-color: #7952b3; /* Mor renk - site temasına uygun */
+    border-color: #7952b3;
+    color: white;
+    font-weight: 500;
+    padding: 0.6rem 1rem;
+    border-radius: 5px;
+    transition: all 0.2s;
+}
+
+.research-card .btn-primary:hover {
+    background-color: #673ab7; /* Biraz daha koyu mor */
+    border-color: #673ab7;
+    transform: translateY(-2px);
+    box-shadow: 0 5px 10px rgba(121, 82, 179, 0.3);
+}
+
+.research-card .btn-primary:focus {
+    box-shadow: 0 0 0 0.25rem rgba(121, 82, 179, 0.4);
+}
+
+/* Boş liste mesajı */
+.alert-info {
+    background-color: #e8eaf6;
+    color: #7952b3;
+    border: 1px solid #c5cae9;
+    border-radius: 8px;
+    padding: 1.5rem;
+    text-align: center;
+}
+
+/* Responsive ayarlar */
+@media (max-width: 768px) {
+    .research-container .text-center h1 {
+        font-size: 2rem;
+    }
+    
+    .research-container .text-center p {
+        font-size: 1rem;
+    }
+    
+    .research-card .card-title {
+        font-size: 1.2rem;
+    }
+}

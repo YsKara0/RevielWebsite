@@ -1,0 +1,237 @@
+/* contact.css - İletişim sayfası için özel stil dosyası */
+
+.contact-container {
+    padding-top: 2rem;
+    max-width: 1200px;
+    min-height: calc(100vh - 180px);
+}
+
+/* Başlık ve alt başlık stilleri */
+.contact-heading {
+    color: #343a40;
+    font-weight: 700;
+    margin-bottom: 0.5rem;
+    font-size: 2.5rem;
+    position: relative;
+    display: inline-block;
+}
+
+.contact-heading::after {
+    content: '';
+    position: absolute;
+    width: 60px;
+    height: 3px;
+    background: linear-gradient(90deg, #7952b3, #9b7ad5);
+    bottom: -10px;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.contact-subheading {
+    color: #6c757d;
+    font-size: 1.1rem;
+    margin-bottom: 3rem;
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* Form stilleri */
+.contact-form-container {
+    background-color: #ffffff;
+    border-radius: 10px;
+    padding: 2.5rem;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.05);
+    height: 100%;
+    transition: transform 0.3s ease;
+}
+
+.contact-form-container:hover {
+    transform: translateY(-5px);
+}
+
+.form-title, .info-title, .map-title {
+    color: #7952b3;
+    margin-bottom: 1.5rem;
+    font-weight: 600;
+}
+
+.form-control {
+    border: 1px solid #e9ecef;
+    padding: 0.75rem;
+    font-size: 0.95rem;
+    border-radius: 5px;
+    transition: all 0.3s;
+}
+
+.form-control:focus {
+    border-color: #7952b3;
+    box-shadow: 0 0 0 0.2rem rgba(121, 82, 179, 0.25);
+}
+
+.form-label {
+    color: #495057;
+    font-weight: 500;
+    margin-bottom: 0.5rem;
+}
+
+.contact-submit {
+    background: linear-gradient(135deg, #7952b3, #9b7ad5);
+    border: none;
+    padding: 0.75rem 2rem;
+    font-weight: 600;
+    transition: all 0.3s ease;
+    margin-top: 1rem;
+}
+
+.contact-submit:hover {
+    background: linear-gradient(135deg, #6941a0, #7952b3);
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(121, 82, 179, 0.2);
+}
+
+/* İletişim bilgileri stilleri */
+.contact-info-container {
+    background-color: #ffffff;
+    border-radius: 10px;
+    padding: 2.5rem;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.05);
+    height: 100%;
+    transition: transform 0.3s ease;
+}
+
+.contact-info-container:hover {
+    transform: translateY(-5px);
+}
+
+.contact-info-item {
+    display: flex;
+    margin-bottom: 1.5rem;
+    align-items: flex-start;
+}
+
+.contact-icon {
+    width: 40px;
+    height: 40px;
+    background: linear-gradient(135deg, rgba(121, 82, 179, 0.1), rgba(155, 122, 213, 0.1));
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 1rem;
+    color: #7952b3;
+    font-size: 1rem;
+    flex-shrink: 0;
+}
+
+.contact-text h5 {
+    margin-bottom: 0.25rem;
+    color: #343a40;
+    font-weight: 600;
+    font-size: 1.1rem;
+}
+
+.contact-text p {
+    color: #6c757d;
+    margin-bottom: 0;
+    font-size: 0.95rem;
+}
+
+/* Sosyal Medya Butonları */
+.contact-social {
+    margin-top: 2rem;
+}
+
+.social-icons {
+    display: flex;
+    gap: 0.5rem;
+    margin-top: 0.75rem;
+}
+
+.social-icon {
+    width: 36px;
+    height: 36px;
+    border-radius: 50%;
+    background: linear-gradient(135deg, #7952b3, #9b7ad5);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-size: 0.9rem;
+    transition: all 0.3s ease;
+}
+
+.social-icon:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 5px 10px rgba(121, 82, 179, 0.3);
+    color: white;
+}
+
+/* Harita stilleri */
+.contact-map-container {
+    margin-top: 1rem;
+    padding: 2rem 0;
+}
+
+.contact-map {
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.05);
+    transition: transform 0.3s ease;
+}
+
+.contact-map:hover {
+    transform: translateY(-5px);
+}
+
+/* Animasyon stilleri */
+@keyframes fadeInUp {
+    from {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.contact-form-container,
+.contact-info-container,
+.contact-map-container {
+    animation: fadeInUp 0.5s forwards;
+}
+
+.contact-form-container {
+    animation-delay: 0.1s;
+}
+
+.contact-info-container {
+    animation-delay: 0.3s;
+}
+
+.contact-map-container {
+    animation-delay: 0.5s;
+}
+
+/* Responsive ayarlamalar */
+@media (max-width: 991px) {
+    .contact-info-container {
+        margin-top: 2rem;
+    }
+}
+
+@media (max-width: 767px) {
+    .contact-form-container,
+    .contact-info-container {
+        padding: 1.5rem;
+    }
+    
+    .contact-heading {
+        font-size: 2rem;
+    }
+    
+    .contact-subheading {
+        font-size: 1rem;
+    }
+}

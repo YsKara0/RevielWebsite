@@ -1,0 +1,64 @@
+@model reviel.Models.Research
+
+@{
+    ViewData["Title"] = "Araştırma Sil";
+    Layout = "_AdminLayout";
+}
+
+<div class="container-fluid">
+    <h1 class="mt-4">Araştırmayı Sil</h1>
+    
+    <div class="alert alert-danger">
+        <h3>Bu araştırmayı silmek istediğinize emin misiniz?</h3>
+        <p>Bu işlem geri alınamaz!</p>
+    </div>
+
+    <div class="card mb-4">
+        <div class="card-header">
+            <h4>@Model.Title</h4>
+        </div>
+        <div class="card-body">
+            <div class="row">
+                <div class="col-md-6">
+                    <dl class="row">
+                        <dt class="col-sm-4">Yazar:</dt>
+                        <dd class="col-sm-8">@(Model.Author ?? "Yazar belirtilmemiş")</dd>
+                        
+                        <dt class="col-sm-4">Yayın Tarihi:</dt>
+                        <dd class="col-sm-8">@Model.PublicationDate.ToShortDateString()</dd>
+                    </dl>
+                </div>
+                <div class="col-md-6">
+                    <dl class="row">                        <dt class="col-sm-4">PDF Dosyası:</dt>
+                        <dd class="col-sm-8">
+                            @if (!string.IsNullOrEmpty(Model.PdfUrl))
+                            {
+                                <a href="@Model.PdfUrl" target="_blank" class="btn btn-sm btn-info">
+                                    <i class="fas fa-file-pdf"></i> PDF'i Görüntüle
+                                </a>
+                            }
+                            else
+                            {
+                                <span>PDF URL yok</span>
+                            }
+                        </dd>
+                    </dl>
+                </div>
+            </div>
+              <hr />
+            
+            <h5>Özet:</h5>
+            <div class="summary-preview">
+                @Model.Summary
+            </div>
+        </div>
+    </div>
+    
+    <form asp-action="DeleteResearch" method="post">
+        <input type="hidden" asp-for="Id" />
+        <div class="mb-3">
+            <a asp-action="ViewResearches" class="btn btn-secondary">İptal</a>
+            <button type="submit" class="btn btn-danger">Sil</button>
+        </div>
+    </form>
+</div>

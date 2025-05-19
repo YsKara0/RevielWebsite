@@ -1,0 +1,61 @@
+@model IEnumerable<reviel.Models.Product>
+
+@{
+    ViewData["Title"] = "Ürünlerimiz";
+    Layout = "_Layout";
+    var productTypes = ViewData["ProductTypes"] as List<string> ?? new List<string>();
+    var selectedProductType = ViewData["SelectedProductType"] as string;
+}
+
+<link rel="stylesheet" href="~/css/products.css" />
+
+<div class="container mt-5 products-container">
+    <div class="text-center mb-5">
+        <h1 class="display-4">Ürünlerimiz</h1>
+        <p class="lead">Reviel olarak egzama ve hassas ciltler için geliştirdiğimiz özel formüllü ürünler.</p>
+    </div>
+
+    <div class="row mb-4">
+        <div class="col-md-12">
+            <form asp-action="Products" method="get" class="form-inline justify-content-center">
+                <label class="mr-2" for="productTypeFilter">Filtrele: </label>
+                <select name="productType" id="productTypeFilter" class="form-control mr-2" onchange="this.form.submit()">
+                    <option value="">Tümü</option>
+                    @foreach (var type in productTypes)
+                    {
+                        <option value="@type" selected="@(type == selectedProductType)">@type</option>
+                    }
+                </select>
+                @if (!string.IsNullOrEmpty(selectedProductType))
+                {
+                    <a asp-action="Products" class="btn btn-outline-secondary">Filtreyi Temizle</a>
+                }
+            </form>
+        </div>
+    </div>
+
+    <div class="row">
+        @if (Model != null && Model.Any())
+        {
+            foreach (var product in Model)
+            {
+                <div class="col-lg-4 col-md-6 mb-4">
+                    <div class="product-card">
+                        <img src="@(!string.IsNullOrEmpty(product.ImagePath) ? Url.Content(product.ImagePath) : Url.Content("~/images/logo.png"))" alt="@product.Name">
+                        <div class="product-card-body">
+                            <div class="product-name">@product.Name</div>
+                            <div class="product-type">@Html.DisplayFor(modelItem => product.Type)</div>
+                            <p class="product-description">@product.Description</p>
+                            @* <a asp-controller="Products" asp-action="Details" asp-route-id="@product.Id" class="btn btn-outline-primary product-details-link">Detayları Gör</a> *@
+                        </div>
+                    </div>
+                </div>
+            }
+        }
+        else
+        {
+            <div class="col-12">
+                <p class="text-center">Şu anda gösterilecek ürün bulunmamaktadır. Lütfen daha sonra tekrar kontrol edin.</p>
+            </div>
+        }    </div>
+</div>

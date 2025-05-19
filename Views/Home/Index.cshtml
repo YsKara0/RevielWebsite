@@ -1,0 +1,276 @@
+@model IEnumerable<reviel.Models.Product>
+
+@{
+    ViewData["Title"] = "Ana Sayfa";
+}
+
+@section Styles {
+    <link rel="stylesheet" href="~/css/index.css" />
+    <link rel="stylesheet" href="~/css/why-reviel.css" />
+    <link rel="stylesheet" href="~/css/before-after.css" />
+}
+
+<!-- Hero Bölümü -->
+<section class="hero-section">
+    <div class="hero-background"></div>
+    <div class="hero-watermark"></div>
+    <div class="hero-content">
+        <h1 class="hero-title">Cildiniz İçin <span>Doğal</span> Çözümler</h1>
+        <p class="hero-subtitle">Reviel ile egzama ve hassas ciltler için özel olarak formüle edilmiş ürünlerimizi keşfedin. Bilimsel araştırmalara dayalı, doğal içerikli cilt bakım ürünleri.</p>
+        <div class="hero-buttons">
+            <a asp-controller="Home" asp-action="Products" class="btn-hero btn-primary-hero">Ürünlerimiz</a>
+            <a asp-controller="Home" asp-action="About" class="btn-hero btn-outline-hero">Hakkımızda</a>
+        </div>
+    </div>
+    <div class="scroll-indicator">
+        <i class="fas fa-chevron-down"></i>
+    </div>
+</section>
+
+<!-- Öne Çıkan Özellikler -->
+<section class="features-section">
+    <div class="container">
+        <div class="section-title">
+            <h2>Neden Reviel?</h2>
+            <p>Reviel olarak, hassas ciltlerin ihtiyaçlarını bilimsel araştırmalara dayanan özenli bir yaklaşımla ele alıyoruz. Günümüzde her 5 kişiden 1'inin egzama gibi cilt problemleriyle mücadele ettiği bilinciyle, uzman dermatoloji ekibimiz tarafından geliştirilen formüllerimiz cilt bariyerinizi güçlendirir ve sağlıklı bir cilt için gerekli bakımı sağlar.</p>
+        </div>
+        
+        <div class="why-reviel-intro">
+            <div class="row align-items-center">
+                <div class="col-md-6">
+                    <div class="intro-text">
+                        <h3>Bilim ve Doğanın Birleşimi</h3>
+                        <p>Reviel'de cilt sağlığına yaklaşımımız, yıllar süren araştırmalara dayanır. Türkiye'de alanında öncü laboratuvarımızda, uluslararası dermatoloji standartlarında ürünler geliştiriyoruz. Hassas cildin ne kadar hassas bakım gerektirdiğini biliyor ve %100 doğal içeriklerle formüllerimizi zenginleştiriyoruz.</p>
+                        <p>Ürünlerimiz, egzama ve hassas ciltlerin günlük bakım ihtiyaçlarını karşılamanın ötesinde, cildin doğal savunma mekanizmasını güçlendirmeye odaklanır. Güvenilir ve etkili çözümler sunma konusundaki kararlılığımız, her ürünü dermatolojik testlerden geçirerek kanıtlanmıştır.</p>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="intro-image">
+                        <img src="~/images/reviel.png" alt="Reviel Laboratuvarı" class="img-fluid rounded shadow">
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="row">            <div class="col-lg-4 col-md-6 mb-4">
+                <div class="feature-card">
+                    <div class="feature-icon">
+                        <i class="fas fa-flask"></i>
+                    </div>
+                    <h3 class="feature-title">Bilimsel Formüller</h3>
+                    <p class="feature-text">Laboratuvarımızda geliştirilen ve dermatolojik testlerden geçirilmiş formüllerimiz, 15+ yıllık bilimsel araştırmalara dayanarak hassas ciltler için optimum faydayı sağlar.</p>
+                </div>
+            </div>
+
+            <div class="col-lg-4 col-md-6 mb-4">
+                <div class="feature-card">
+                    <div class="feature-icon">
+                        <i class="fas fa-leaf"></i>
+                    </div>
+                    <h3 class="feature-title">Doğal İçerikler</h3>
+                    <p class="feature-text">Paraben, alkol, SLS ve yapay parfüm gibi zararlı maddeler içermeyen, %100 doğal kaynaklardan elde edilmiş aktif bileşenlerle zenginleştirilmiş formüller kullanıyoruz.</p>
+                </div>
+            </div>            <div class="col-lg-4 col-md-6 mb-4">
+                <div class="feature-card">
+                    <div class="feature-icon">
+                        <i class="fas fa-shield-alt"></i>
+                    </div>
+                    <h3 class="feature-title">Cilt Bariyeri Koruması</h3>
+                    <p class="feature-text">Seramid ve doğal yağlar içeren özel formüllerimiz, cildin doğal koruyucu bariyerini güçlendirir, egzama semptomlarını hafifletir ve çevresel etkenlere karşı uzun süreli koruma sağlar.</p>
+                </div>
+            </div>
+
+            <div class="col-lg-4 col-md-6 mb-4">
+                <div class="feature-card">
+                    <div class="feature-icon">
+                        <i class="fas fa-tint"></i>
+                    </div>
+                    <h3 class="feature-title">Derin Nemlendirme</h3>
+                    <p class="feature-text">Patentli NMF (Doğal Nemlendirici Faktör) teknolojimiz ve hiyalüronik asit kombinasyonu, cildin en derin katmanlarını bile 48 saate kadar nemlendirir, kuruluk ve kaşıntı gibi sorunları kökünden çözer.</p>
+                </div>
+            </div>            <div class="col-lg-4 col-md-6 mb-4">
+                <div class="feature-card">
+                    <div class="feature-icon">
+                        <i class="fas fa-check-double"></i>
+                    </div>
+                    <h3 class="feature-title">Klinik Olarak Kanıtlanmış</h3>
+                    <p class="feature-text">Tüm ürünlerimiz 200+ gönüllü ile gerçekleştirilen klinik çalışmalarda test edilmiş ve % 96 oranında "mükemmel" veya "çok iyi" şeklinde değerlendirilmiştir. Dermatolojik olarak hassas cilt uyumluluğu onaylanmıştır.</p>
+                </div>
+            </div>
+
+            <div class="col-lg-4 col-md-6 mb-4">
+                <div class="feature-card">
+                    <div class="feature-icon">
+                        <i class="fas fa-heart"></i>
+                    </div>
+                    <h3 class="feature-title">Sevgi ile Üretildi</h3>
+                    <p class="feature-text">Her ürünümüz, cilt sağlığına adanmış bir ekip tarafından, egzama ile mücadele edenlerle uzun yıllara dayanan görüşmeler sonucunda geliştirilmiştir. Laboratuvarımızda sevgi ve özenle, küçük partiler halinde üretiyoruz.</p>
+                </div>
+            </div>        </div>
+    </div>
+</section>
+
+<!-- Teknoloji ve Araştırma Bölümü -->
+<section class="research-technology-section">
+    <div class="container">
+        <div class="section-title">
+            <h2>Bilim ve Teknoloji</h2>
+            <p>Reviel'in yenilikçi formüllerinin arkasındaki ileri teknolojilerimiz ve bilimsel araştırmalarımız</p>
+        </div>
+        
+        <div class="research-cards">
+            <div class="row">
+                <div class="col-lg-4 mb-4">
+                    <div class="research-card">
+                        <div class="research-icon">
+                            <i class="fas fa-microscope"></i>
+                        </div>
+                        <h3>İleri Düzey Araştırma</h3>
+                        <p>Bilim ekibimiz, cildin nemlendirme mekanizmaları üzerine sürekli araştırmalar yürüterek, nem tutma ve bariyer fonksiyonunu artıran optimal moleküler yapıları belirliyor.</p>
+                        <ul class="research-list">
+                            <li>Gelişmiş biyometrik nem analizi</li>
+                            <li>Hücresel nemlendirme yolu haritalama</li>
+                            <li>Dermal matris geliştirme çalışmaları</li>
+                        </ul>
+                    </div>
+                </div>
+                
+                <div class="col-lg-4 mb-4">
+                    <div class="research-card">
+                        <div class="research-icon">
+                            <i class="fas fa-vial"></i>
+                        </div>
+                        <h3>Özel Teknoloji</h3>
+                        <p>Özel Aqua-Lock Teknolojimiz™, gün boyunca cildinizin değişen nemlendirme ihtiyaçlarına sürekli uyum sağlayan duyarlı bir nem matrisi oluşturur.</p>
+                        <ul class="research-list">
+                            <li>Çok fazlı nem salınım sistemi</li>
+                            <li>Biyomimetik lipid bariyer güçlendirme</li>
+                            <li>Hyaluronik asit moleküler optimizasyonu</li>
+                        </ul>
+                    </div>
+                </div>
+                
+                <div class="col-lg-4 mb-4">
+                    <div class="research-card">
+                        <div class="research-icon">
+                            <i class="fas fa-clipboard-check"></i>
+                        </div>
+                        <h3>Klinik Doğrulama</h3>
+                        <p>Her formülasyon, etkinliğini, güvenliğini ve çeşitli çevresel koşullar altında performansını doğrulamak için titiz klinik testlerden geçer.</p>
+                        <ul class="research-list">
+                            <li>12 haftalık klinik etkinlik denemeleri</li>
+                            <li>Transepidermal su kaybı değerlendirmesi</li>
+                            <li>Çevresel stres koşulu testler</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+<!-- Önce-Sonra Karşılaştırma Bölümü -->
+<section class="before-after-section">
+    <div class="container">
+        <div class="section-title">
+            <h2>Klinik Sonuçlar</h2>
+            <p>Reviel ürünlerimiz ile gerçek klinik çalışmalardan elde edilen önce-sonra sonuçları</p>
+        </div>
+        
+        <div class="row justify-content-center">
+            <div class="col-md-10 col-lg-8">
+                <div class="before-after-container">                    <div class="img-comp-container">
+                        <div class="img-comp-before">
+                            <img src="~/images/before.png" alt="Tedavi Öncesi" class="img-fluid">
+                            <div class="img-label before-label">Öncesi</div>
+                        </div>
+                        <div class="img-comp-after">
+                            <img src="~/images/after.png" alt="Tedavi Sonrası" class="img-fluid">
+                            <div class="img-label after-label">Sonrası</div>
+                        </div>
+                        <div class="img-comp-slider">
+                            <div class="slider-button">
+                                <i class="fas fa-chevron-left"></i>
+                                <i class="fas fa-chevron-right"></i>
+                            </div>
+                        </div>
+                    </div>
+                    <p class="before-after-caption">4 haftalık düzenli Reviel kullanımı sonucu kızarıklık ve pullanmada görülen azalma. Klinik çalışma gönüllüsü, 32 yaşında kadın hasta.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+<!-- uzman Görüşleri -->
+<section class="testimonials-section">
+    <div class="container">
+        <div class="section-title">
+            <h2>Uzman Görüşleri</h2>
+            <p>Ürünlerimizi klinik çalışmalarda değerlendiren uzman doktorların profesyonel görüşleri</p>
+        </div>
+        
+        <div class="testimonials-slider">
+            <div class="row">                <div class="col-lg-4 col-md-6 mb-4">
+                    <div class="testimonial-card">
+                        <div class="testimonial-certificate">
+                            <i class="fas fa-certificate"></i>
+                            <span>Uzman Görüşü</span>
+                        </div>
+                        <p class="testimonial-text">"Reviel'in egzama için geliştirdiği ürün serisi, içerdiği seramid kompleksi ve doğal lipidler sayesinde cilt bariyerini güçlendirmekte çok etkili. Klinik çalışmalarda pediatrik hastalarda bile irritasyon yaratmadan etkinlik gösterdiğini gözlemledik. Özellikle tekrarlayan egzama ataklarında önleyici olarak öneriyorum."</p>
+                        <div class="testimonial-user">                            <div class="user-avatar">
+                                <img src="~/images/doctors/abdullahdayioglu.png" alt="Dr. Abdullah Dayıoğlu" class="rounded-circle">
+                            </div>
+                            <div class="user-info">
+                                <h5>Dr. Abdullah Dayıoğlu</h5>
+                                <span> Çocuk Doktoru, Kanuni Sultan Süleyman Eğitim ve Araştırma Hastanesi</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                  <div class="col-lg-4 col-md-6 mb-4">
+                    <div class="testimonial-card">
+                        <div class="testimonial-certificate">
+                            <i class="fas fa-certificate"></i>
+                            <span>Uzman Görüşü</span>
+                        </div>
+                        <p class="testimonial-text">"Kronik atopik dermatit tedavisinde Reviel'in NMF teknolojisi içeren formülasyonu, hastalık yönetiminde önemli bir fark yaratıyor. Yapılan çift-kör klinik çalışmalarda 4 haftalık kullanım sonrasında hastaların %87'sinde belirgin bir iyileşme gözlemledik. İlaç tedavisine tamamlayıcı olarak önerdiğim bir ürün serisi."</p>
+                        <div class="testimonial-user">                            <div class="user-avatar">
+                                <img src="~/images/doctors/tekinnacaroglu.jpg" alt="Prof. Dr. Tekin Nacaroğlu" class="rounded-circle">
+                            </div>
+                            <div class="user-info">
+                                <h5>Prof. Dr. Tekin Nacaroğlu</h5>
+                                <span>Dermatoloji Uzmanı, Medipol Üniversitesi</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                  <div class="col-lg-4 col-md-6 mb-4">
+                    <div class="testimonial-card">
+                        <div class="testimonial-certificate">
+                            <i class="fas fa-certificate"></i>
+                            <span>Uzman Görüşü</span>
+                        </div>
+                        <p class="testimonial-text">"Hassas cilt ve rozasea tedavilerinde Reviel ürünlerini güvenle öneriyorum. İçerdiği antiinflamatuar bileşenler ve bariyeri güçlendiren ceramidler, kızarıklık ve reaktiviteyi önemli ölçüde azaltıyor. Hipoalerjenik yapısı ve koruyucu içermemesi, duyarlı ciltler için ideal. Kozmetik intolerans sendromu olan hastalarımda bile olumlu sonuçlar aldım."</p>
+                        <div class="testimonial-user">                            <div class="user-avatar">
+                                <img src="~/images/doctors/mertzure.jpg" alt="Dr. Mert Zure" class="rounded-circle">
+                            </div>
+                            <div class="user-info">
+                                <h5>Dr. Mert Zure</h5>
+                                <span>Fizik Tedavi ve Rehabilitasyon Uzmanı, İstanbul Üniversitesi</span>
+                            </div>
+                        </div>
+                    </div>                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+
+@section Scripts {
+    <script src="~/js/index.js"></script>
+    <script src="~/js/before-after.js"></script>
+}

@@ -1,0 +1,385 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\reviel\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\reviel.bundle.scp.css",
+      "PackagePath": "staticwebassets\\reviel.crgc1zp8xp.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\reviel\\wwwroot\\css\\about.css",
+      "PackagePath": "staticwebassets\\css\\about.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\reviel\\wwwroot\\css\\admin-layout.css",
+      "PackagePath": "staticwebassets\\css\\admin-layout.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\reviel\\wwwroot\\css\\before-after.css",
+      "PackagePath": "staticwebassets\\css\\before-after.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\reviel\\wwwroot\\css\\contact.css",
+      "PackagePath": "staticwebassets\\css\\contact.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\reviel\\wwwroot\\css\\index.css",
+      "PackagePath": "staticwebassets\\css\\index.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\reviel\\wwwroot\\css\\products.css",
+      "PackagePath": "staticwebassets\\css\\products.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\reviel\\wwwroot\\css\\researches.css",
+      "PackagePath": "staticwebassets\\css\\researches.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\reviel\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\reviel\\wwwroot\\css\\why-reviel.css",
+      "PackagePath": "staticwebassets\\css\\why-reviel.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\reviel\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\reviel\\wwwroot\\images\\after.png",
+      "PackagePath": "staticwebassets\\images\\after.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\reviel\\wwwroot\\images\\before.png",
+      "PackagePath": "staticwebassets\\images\\before.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\reviel\\wwwroot\\images\\doctors\\abdullahdayioglu.png",
+      "PackagePath": "staticwebassets\\images\\doctors\\abdullahdayioglu.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\reviel\\wwwroot\\images\\doctors\\mertzure.jpg",
+      "PackagePath": "staticwebassets\\images\\doctors\\mertzure.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\reviel\\wwwroot\\images\\doctors\\tekinnacaroglu.jpg",
+      "PackagePath": "staticwebassets\\images\\doctors\\tekinnacaroglu.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\reviel\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\reviel\\wwwroot\\images\\reviel.png",
+      "PackagePath": "staticwebassets\\images\\reviel.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\reviel\\wwwroot\\images\\revielfirst.jpg",
+      "PackagePath": "staticwebassets\\images\\revielfirst.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\reviel\\wwwroot\\images\\revielmain.png",
+      "PackagePath": "staticwebassets\\images\\revielmain.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\reviel\\wwwroot\\js\\before-after.js",
+      "PackagePath": "staticwebassets\\js\\before-after.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\reviel\\wwwroot\\js\\contact.js",
+      "PackagePath": "staticwebassets\\js\\contact.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\reviel\\wwwroot\\js\\index.js",
+      "PackagePath": "staticwebassets\\js\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\reviel\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\reviel\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\reviel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\reviel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\reviel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\reviel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\reviel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\reviel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\reviel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\reviel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\reviel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\reviel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\reviel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\reviel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\reviel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\reviel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\reviel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\reviel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\reviel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\reviel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\reviel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\reviel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\reviel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\reviel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\reviel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\reviel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\reviel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\reviel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\reviel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\reviel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\reviel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\reviel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\reviel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\reviel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\reviel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\reviel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\reviel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\reviel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\reviel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\reviel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\reviel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\reviel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\reviel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\reviel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\reviel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\reviel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\reviel\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\reviel\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\reviel\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\reviel\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\reviel\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\reviel\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\reviel\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\reviel\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\reviel\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\reviel\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\reviel\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\reviel\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\reviel\\wwwroot\\lib\\jquery\\dist\\jquery.slim.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\reviel\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\reviel\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\reviel\\wwwroot\\pdf\\EBSCO-FullText-02.03.2025.pdf",
+      "PackagePath": "staticwebassets\\pdf\\EBSCO-FullText-02.03.2025.pdf"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\reviel\\wwwroot\\pdf\\EBSCO-FullText-24.01.2025.pdf",
+      "PackagePath": "staticwebassets\\pdf\\EBSCO-FullText-24.01.2025.pdf"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\reviel\\wwwroot\\pdf\\Early_initiation_of_short-term_emollient_use_for_t.pdf",
+      "PackagePath": "staticwebassets\\pdf\\Early_initiation_of_short-term_emollient_use_for_t.pdf"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\reviel\\wwwroot\\pdf\\Eichenfield-et-al-_-Benefits-of-Sunflwr-Oleodistillate_-Ped-Derm_2009-1.pdf",
+      "PackagePath": "staticwebassets\\pdf\\Eichenfield-et-al-_-Benefits-of-Sunflwr-Oleodistillate_-Ped-Derm_2009-1.pdf"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\reviel\\wwwroot\\pdf\\beep_alerji_calismasi.pdf",
+      "PackagePath": "staticwebassets\\pdf\\beep_alerji_calismasi.pdf"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\reviel\\wwwroot\\pdf\\biomedicines-08-00027-v2.pdf",
+      "PackagePath": "staticwebassets\\pdf\\biomedicines-08-00027-v2.pdf"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.reviel.props",
+      "PackagePath": "build\\reviel.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.reviel.props",
+      "PackagePath": "buildMultiTargeting\\reviel.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.reviel.props",
+      "PackagePath": "buildTransitive\\reviel.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.reviel.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.reviel.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
