@@ -277,3 +277,4 @@ C:\Users\LENOVO\Desktop\reviel\obj\Debug\net9.0\compressed\5bbmi7g960-pu1pts2jp5
 C:\Users\LENOVO\Desktop\reviel\obj\Debug\net9.0\compressed\cm9qp8bto5-uhlu0dn8n4.gz
 C:\Users\LENOVO\Desktop\reviel\obj\Debug\net9.0\compressed\fq6ejggl1e-2qcp069toe.gz
 C:\Users\LENOVO\Desktop\reviel\obj\Debug\net9.0\compressed\mz2t8ygwot-hibqhfqo10.gz
+C:\Users\LENOVO\Desktop\reviel\obj\Debug\net9.0\reviel.sourcelink.json

@@ -13,7 +13,7 @@ var connectionString = $"Server={Environment.GetEnvironmentVariable("DB_HOST")};
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
     options.UseMySql(connectionString, ServerVersion.AutoDetect(connectionString)));
 
-// Identity sistemini ekle (kendi rotalarımızı kullanacağız, hazır Razor Pages kullanmayacağız)
+// Identity sistemini ekledim (kendi rotalarımı kullandim, hazır Razor Pages kullanmadim)
 builder.Services.AddIdentity<IdentityUser, IdentityRole>(options => {
     options.SignIn.RequireConfirmedAccount = false;
     options.Password.RequireDigit = true;
@@ -71,18 +71,8 @@ app.MapControllerRoute(
     pattern: "{controller=Home}/{action=Index}/{id?}")
     .WithStaticAssets();
 
-// Admin kullanıcısını oluştur
-if (app.Environment.IsDevelopment())
-{
-    // Güvenlik için gerçek uygulamada bu bilgileri environment variables veya appsettings.json'dan almalısınız
-    var adminEmail = "admin@reviel.com";
-    var adminPassword = "Admin123!"; // Güçlü bir şifre kullanılmalı
-    
-    using (var scope = app.Services.CreateScope())
-    {
-        await DbInitializer.Initialize(scope.ServiceProvider, adminEmail, adminPassword);
-        Console.WriteLine($"Admin kullanıcısı oluşturuldu: {adminEmail}");
-    }
-}
+
+
+
 
 app.Run();

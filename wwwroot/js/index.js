@@ -37,12 +37,12 @@ function createParticles() {
         particle.style.top = `${posY}%`;
         particle.style.animationDelay = `${delay}s`;
         particle.style.animationDuration = `${duration}s`;
-        particle.style.opacity = opacity;        // Bazı baloncuklarda farklı renk tonu ve animasyon kullanmak için
+        particle.style.opacity = opacity;        // Bazı baloncuklarda farklı renk tonu ve animasyon kullanmak için ekledim
         const useAlternativeAnimation = Math.random() > 0.7; // Daha fazla alternatif animasyon için eşik düşürüldü
         if (useAlternativeAnimation) {
             particle.style.animation = `bubbleFloat ${duration}s infinite ease-in-out ${delay}s`;
-            particle.style.backgroundColor = 'rgba(121, 82, 179, ' + (opacity + 0.1) + ')'; // Daha belirgin renk
-            particle.style.boxShadow = '0 0 5px rgba(121, 82, 179, 0.4)'; // Hafif bir parlaklık ekledik
+            particle.style.backgroundColor = 'rgba(121, 82, 179, ' + (opacity + 0.1) + ')'; 
+            particle.style.boxShadow = '0 0 5px rgba(121, 82, 179, 0.4)'; 
             particle.style.zIndex = '2';
         }
         

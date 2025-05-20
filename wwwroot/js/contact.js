@@ -20,29 +20,6 @@ document.addEventListener('DOMContentLoaded', function() {
             console.log('Form verileri:', formValues);
             
             // Gerçek uygulamada bu kısımda bir API'ye istek gönderilir
-            // Örnek API çağrısı (şu an devre dışı):
-            /*
-            fetch('/api/contact', {
-                method: 'POST',
-                headers: {
-                    'Content-Type': 'application/json'
-                },
-                body: JSON.stringify(formValues)
-            })
-            .then(response => response.json())
-            .then(data => {
-                if (data.success) {
-                    showSuccessMessage();
-                    contactForm.reset();
-                } else {
-                    showErrorMessage(data.message || 'Bir hata oluştu. Lütfen tekrar deneyin.');
-                }
-            })
-            .catch(error => {
-                console.error('Hata:', error);
-                showErrorMessage('Bir hata oluştu. Lütfen tekrar deneyin.');
-            });
-            */
             
             // Şimdilik sadece başarılı mesajı gösteriyoruz (geliştirme aşamasında)
             showSuccessMessage();

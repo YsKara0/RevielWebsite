@@ -197,7 +197,7 @@
     transform: translateX(-50%);
     z-index: 2;
     opacity: 0;
-    animation: fadeIn 0.5s forwards; /* 0.8s'den 0.5s'ye düşürüldü */
+    animation: fadeIn 0.5s forwards; /* 0.8s'den 0.5s'ye düşürüldü  sayfa cok yavas aciliyordu o yuzden dusurdum*/
     animation-delay: 0.5s; /* 1.4s'den 0.5s'ye düşürüldü */
 }
 
@@ -368,7 +368,7 @@
     }
 }
 
-/* subtle-fade animasyonu performans için kaldırıldı */
+
 
 /* Responsive düzenlemeler */
 @media (max-width: 992px) {
@@ -412,9 +412,11 @@
     background-position: center;
     opacity: 0.08;
     z-index: 2;
-    /* Performans için filtre ve animasyon kaldırıldı */
+   
 }
 
+
+/* logo  */
 .hero-logo {
     max-width: 150px;
     margin-bottom: 30px;

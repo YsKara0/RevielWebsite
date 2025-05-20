@@ -23,18 +23,18 @@ html {
 
 /* Custom Navbar Style */
 .navbar {
-    padding-top: 0.8rem; /* Navbar dikey padding azaltıldı */
+    padding-top: 0.8rem; 
     padding-bottom: 0.8rem;
-    font-family: 'Poppins', sans-serif; /* Modern bir font eklendi (Google Fonts'tan eklenmeli) */
-    font-size: 0.9rem; /* Font boyutu biraz küçültüldü */
-    letter-spacing: 0.3px; /* Harf aralığı ayarlandı */
-    background-color: #fff !important; /* Arka planı saf beyaz yap */
+    font-family: 'Poppins', sans-serif; /* Modern bir font secmek istedim (Google Fonts'tan ekledim) */
+    font-size: 0.9rem; 
+    letter-spacing: 0.3px; 
+    background-color: #fff !important; 
 }
 
 .navbar-brand {
-    font-size: 1.5rem; /* Marka adı font boyutu */
-    font-weight: 600; /* Marka adı font kalınlığı */
-    color: #7952b3 !important; /* Marka adı rengi */
+    font-size: 1.5rem; 
+    font-weight: 600; 
+    color: #7952b3 !important; 
 }
 
 .navbar-brand img {
@@ -42,21 +42,21 @@ html {
 }
 
 .navbar-nav .nav-link {
-    padding-right: 1rem; /* Linkler arası yatay padding artırıldı */
+    padding-right: 1rem; 
     padding-left: 1rem;
-    color: #555; /* Link rengi biraz daha koyu */
-    font-weight: 500; /* Link font kalınlığı */
+    color: #555; 
+    font-weight: 500; 
     transition: color 0.2s ease-in-out, transform 0.2s ease-in-out;
-    position: relative; /* Alt çizgi efekti için */
+    position: relative; 
 }
 
 .navbar-nav .nav-link:hover,
 .navbar-nav .nav-link.active {
-    color: #7952b3 !important; /* Bootstrap moruna yakın bir renk veya #8e44ad */
-    transform: translateY(-2px); /* Hover'da hafif yukarı kalkma */
+    color: #7952b3 !important; 
+    transform: translateY(-2px); 
 }
 
-/* Aktif link veya hover için alt çizgi efekti (isteğe bağlı) */
+/* Aktif link veya hover için alt çizgi efekti  */
 .navbar-nav .nav-link::after {
     content: '';
     position: absolute;
@@ -71,10 +71,10 @@ html {
 
 .navbar-nav .nav-link:hover::after,
 .navbar-nav .nav-link.active::after {
-    width: 60%; /* Çizgi genişliği */
+    width: 60%; 
 }
 
-/* Sayfanın temel yapısı için Flexbox düzenleme - düzeltilmiş */
+/* Sayfanın temel yapısı için Flexbox düzenleme */
 html {
   height: 100%;
   margin: 0;
@@ -98,8 +98,8 @@ body {
 
 /* Sabit header için ana içerik padding'i */
 main.main-content {
-  flex: 1; /* Sadece flex: 1 kullanarak otomatik büyümeyi sağlıyoruz */
-  padding-top: 70px; /* Sabit navbar'dan dolayı üstten boşluk */
+  flex: 1; 
+  padding-top: 70px; 
   width: 100%;
   display: flex;
   flex-direction: column;
@@ -107,22 +107,22 @@ main.main-content {
 
 /* İçerik alanları için wrapper */
 .content-wrapper {
-  flex: 1; /* Ana içeriğin otomatik büyümesi */
+  flex: 1; 
   width: 100%;
   padding-bottom: 50px; /* Footer ile içerik arasında daha fazla boşluk */
 }
 
 /* Footer Styling */
 .footer {
-    background-color: #2c3e50; /* Dark blue-gray */
+    background-color: #2c3e50; 
     padding: 1.5rem 0;
     margin-top: auto; /* Footer'ı tabana sabitlemek için */
-    flex-shrink: 0; /* Footer'ın küçülmesini engeller */
+    flex-shrink: 0; 
     width: 100%;
-    position: relative; /* Z-index kontrolü için */
-    z-index: 10; /* İçeriğin üzerinde görüntülenmesi için */
-    height: auto; /* Yüksekliği içeriğine göre ayarla */
-    clear: both; /* Tüm float elementlerini temizle */
+    position: relative; 
+    z-index: 10; 
+    height: auto; 
+    clear: both; 
 }
 
 .footer span {
@@ -134,5 +134,5 @@ main.main-content {
 }
 
 .footer a:hover {
-    color: #bdc3c7 !important; /* Lighter gray for hover */
+    color: #bdc3c7 !important; 
 }

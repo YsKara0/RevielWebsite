@@ -1,4 +1,4 @@
-// Önce-Sonra Resim Karşılaştırma Özelliği
+// Önce-Sonra Resim Karşılaştırma Özelliği (guzel ozellik oldugunu dusunerek ekledim tam istedigin gibi olmadi ama)
 document.addEventListener('DOMContentLoaded', function() {
     initBeforeAfter();
 });

@@ -1,10 +1,9 @@
-/* Bu dosya yalnızca ürünler sayfası için özel stilleri içermelidir,
-   sayfa yapısını etkileyen genel stiller site.css'te bulunmalıdır. */
+
 
 .products-container {
     padding-top: 2rem;
     max-width: 1200px; /* İçeriğin çok geniş ekranlarda fazla yayılmasını engelle */
-    min-height: calc(100vh - 180px); /* En az viewport yüksekliği - (header + footer yüksekliği) */
+    min-height: calc(100vh - 180px); /* En az viewport yüksekliği - (header + footer yüksekliği)   footer hata verdigi icin boyle bir cozum buldum*/
     display: flex;
     flex-direction: column;
 }
@@ -20,7 +19,7 @@
 .lead {
     color: #6c757d;
     font-size: 1.1rem; /* Temel boyut */
-    margin-bottom: 2.5rem; /* Alt başlık sonrası boşluk azaltıldı */
+    margin-bottom: 2.5rem; 
 }
 
 /* Filtreleme formu için stiller */
@@ -39,19 +38,19 @@
 }
 
 .filter-section label {
-    font-weight: 500; /* Font kalınlığı biraz azaltıldı */
-    color: #5a6268; /* Renk biraz daha yumuşatıldı */
-    margin-right: 0.4rem; /* Sağ boşluk biraz azaltıldı */
-    font-size: 0.825rem; /* Font boyutu küçültüldü */
+    font-weight: 500; 
+    color: #5a6268; 
+    margin-right: 0.4rem; 
+    font-size: 0.825rem; 
     text-transform: uppercase; /* Büyük harfe çevir */
-    letter-spacing: 0.5px; /* Harf aralığı eklendi */
+    letter-spacing: 0.5px; 
 }
 
 .filter-section .form-control {
     border-radius: 6px;
     border: 1px solid #ced4da;
-    padding: 0.45rem 0.8rem; /* Dikey padding biraz artırıldı, butonla eşitlemek için */
-    font-size: 0.875rem; /* Font boyutu biraz küçültüldü */
+    padding: 0.45rem 0.8rem; /* Dikey padding , butonla eşitlemek için */
+    font-size: 0.875rem; 
     transition: border-color .15s ease-in-out, box-shadow .15s ease-in-out;
     flex-grow: 1;
     min-width: 150px;
@@ -63,11 +62,11 @@
 }
 
 .filter-section .btn {
-    padding: 0.45rem 1rem; /* Buton padding ayarlandı, seçme kutusuyla uyumlu */
-    font-size: 0.875rem; /* Buton font boyutu küçültüldü */
+    padding: 0.45rem 1rem; 
+    font-size: 0.875rem; 
     border-radius: 6px;
     transition: all .2s ease-in-out;
-    /* width: auto; Mobil için width:100% kaldırılacak, bu genel kalsın */
+    
 }
 
 /* Ürün Kartı Stilleri */
@@ -81,7 +80,7 @@
     height: 100%;
     display: flex;
     flex-direction: column;
-    box-shadow: 0 5px 15px rgba(0,0,0,0.06); /* Gölge biraz daha yumuşatıldı */
+    box-shadow: 0 5px 15px rgba(0,0,0,0.06); 
     overflow: hidden;
 }
 
@@ -92,20 +91,20 @@
 
 .product-card img {
     width: 100%;
-    height: 220px; /* Yükseklik biraz azaltıldı, farklı ekranlarda ayarlanabilir */
+    height: 220px; 
     object-fit: cover;
     margin-bottom: 0;
 }
 
 .product-card-body {
-    padding: 20px; /* Padding biraz azaltıldı */
+    padding: 20px;
     flex-grow: 1;
     display: flex;
     flex-direction: column;
 }
 
 .product-name {
-    font-size: 1.25rem; /* Boyut ayarlandı */
+    font-size: 1.25rem; 
     font-weight: 600;
     color: #343a40;
     margin-bottom: 0.4rem;
@@ -179,22 +178,22 @@
     .filter-section .form-inline {
         flex-direction: row; /* Elemanları yan yana sarmaya izin ver */
         align-items: center; /* Dikeyde ortala */
-        /* gap: 0.5rem; /* Elemanlar arası boşluk azaltıldı */
+       
     }
     .filter-section .form-control {
         flex: 1 1 auto; /* Esneklik ayarı */
         min-width: 130px; /* Minimum genişlik azaltıldı */
-        /* margin-bottom: 0.5rem; /* Eğer alt alta gelirse diye kalabilir, ama yan yana ise gereksiz */
+      
     }
     .filter-section .btn {
-        width: auto; /* Butonun tam genişlik alması engellendi */
+        width: auto; 
         flex-shrink: 0; /* Butonun küçülmemesini sağla */
         /* padding: 0.4rem 0.8rem; /* Mobil için padding ayarı */
         /* font-size: 0.85rem; /* Mobil için font ayarı */
-        margin-bottom: 0; /* Yan yana ise alt boşluk gereksiz */
+        margin-bottom: 0; 
     }
     .filter-section label {
-        margin-bottom: 0; /* Yan yana ise alt boşluk gereksiz */
+        margin-bottom: 0; 
         flex-shrink: 0;
     }
     .product-card img {

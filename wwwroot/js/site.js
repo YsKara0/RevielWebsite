@@ -7,7 +7,7 @@ function adjustFooterPosition() {
     const footer = document.querySelector('.footer');
     
     if (pageHeight <= windowHeight) {
-        // Sayfa yüksekliği pencere yüksekliğinden küçükse, footer'ı en alta sabitle
+        // Sayfa yüksekliği pencere yüksekliğinden küçükse, footer'ı en alta sabitle(footer bazen yukari cikiyordu kendi kendine cozmek icin denedim)
         footer.style.position = 'fixed';
         footer.style.bottom = '0';
         footer.style.left = '0';

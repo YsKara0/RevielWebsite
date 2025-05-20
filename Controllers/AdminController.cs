@@ -48,7 +48,7 @@ namespace reviel.Controllers
             return View(products);
         }
 
-        // GET: Admin/EditProduct/5
+        // GET: Admin/EditProduct
         public async Task<IActionResult> EditProduct(int? id)
         {
             if (id == null)
@@ -64,7 +64,7 @@ namespace reviel.Controllers
             return View(product);
         }
 
-        // POST: Admin/EditProduct/5
+        // POST: Admin/EditProduct
         [HttpPost]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> EditProduct(int id, [Bind("Id,Name,Type,Description,ImagePath,Benefits,KeyIngredients")] Product product)
@@ -97,7 +97,7 @@ namespace reviel.Controllers
             return View(product);
         }
 
-        // GET: Admin/DeleteProduct/5
+        // GET: Admin/DeleteProduct
         public async Task<IActionResult> DeleteProduct(int? id)
         {
             if (id == null)
@@ -115,7 +115,7 @@ namespace reviel.Controllers
             return View(product);
         }
 
-        // POST: Admin/DeleteProduct/5
+        // POST: Admin/DeleteProduct
         [HttpPost, ActionName("DeleteProduct")]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> DeleteProductConfirmed(int id)
@@ -160,7 +160,7 @@ namespace reviel.Controllers
             return View(research);
         }
 
-        // GET: Admin/EditResearch/5
+        // GET: Admin/EditResearch
         public async Task<IActionResult> EditResearch(int? id)
         {
             if (id == null)
@@ -175,7 +175,7 @@ namespace reviel.Controllers
             }            return View(research);
         }
         
-        // POST: Admin/EditResearch/5
+        // POST: Admin/EditResearch
         [HttpPost]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> EditResearch(int id, [Bind("Id,Title,Summary,PublicationDate,Author,PdfUrl")] Research research)
@@ -208,7 +208,7 @@ namespace reviel.Controllers
             return View(research);
         }
 
-        // GET: Admin/DeleteResearch/5
+        // GET: Admin/DeleteResearch
         public async Task<IActionResult> DeleteResearch(int? id)
         {
             if (id == null)
@@ -226,7 +226,7 @@ namespace reviel.Controllers
             return View(research);
         }
 
-        // POST: Admin/DeleteResearch/5
+        // POST: Admin/DeleteResearch
         [HttpPost, ActionName("DeleteResearch")]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> DeleteResearchConfirmed(int id)

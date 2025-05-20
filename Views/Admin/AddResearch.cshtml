@@ -9,8 +9,9 @@
     <h1 class="mt-4">Araştırma Ekle</h1>
     
     <div class="row">
-        <div class="col-md-8">
-            <form asp-action="AddResearch" method="post">                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+        <div class="col-md-8">            <form asp-action="AddResearch" asp-controller="Admin" method="post">
+                @Html.AntiForgeryToken()
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
                 <div class="mb-3">
                     <label asp-for="Title" class="form-label">Başlık</label>
                     <input asp-for="Title" class="form-control" />
@@ -24,8 +25,7 @@
                     <small class="form-text text-muted">Araştırmanın kısa bir özetini giriniz (en fazla 500 karakter).</small>
                 </div>
   
-                
-                <div class="row mb-3">
+                  <div class="row mb-3">
                     <div class="col-md-6">
                         <label asp-for="PublicationDate" class="form-label">Yayınlanma Tarihi</label>
                         <input asp-for="PublicationDate" class="form-control" type="date" />
@@ -35,15 +35,15 @@
                         <label asp-for="Author" class="form-label">Yazar</label>
                         <input asp-for="Author" class="form-control" />
                         <span asp-validation-for="Author" class="text-danger"></span>
-                    </div>                </div>
+                    </div>
+                </div>
                 <div class="mb-3">
                     <label asp-for="PdfUrl" class="form-label">PDF URL</label>
                     <input asp-for="PdfUrl" class="form-control" />
                     <span asp-validation-for="PdfUrl" class="text-danger"></span>
                     <small class="form-text text-muted">PDF dosyasının URL'sini giriniz (örn: /pdf/ornek.pdf)</small>
                 </div>
-                
-                <div class="mb-3">
+                  <div class="mb-3">
                     <a asp-action="ViewResearches" class="btn btn-secondary">İptal</a>
                     <button type="submit" class="btn btn-primary">Ekle</button>
                 </div>
