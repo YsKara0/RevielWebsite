@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "uwDjHkxXZLJj82ZbwFzw15j/x/8K3mIQl20EZP/WRGI=",
+  "Hash": "asnlWuz0JQ32Eo2PanQicLsoDE3EK1j+nSrB3sX/A10=",
   "Source": "reviel",
   "BasePath": "_content/reviel",
   "Mode": "Default",
@@ -2117,12 +2117,12 @@
       "OriginalItemSpec": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\9.0.5\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Desktop\\reviel\\obj\\Debug\\net9.0\\compressed\\cm9qp8bto5-uhlu0dn8n4.gz",
+      "Identity": "C:\\Users\\LENOVO\\Desktop\\reviel\\obj\\Debug\\net9.0\\compressed\\cm9qp8bto5-gm0ekedanf.gz",
       "SourceId": "reviel",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\LENOVO\\Desktop\\reviel\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/reviel",
-      "RelativePath": "js/index#[.{fingerprint=uhlu0dn8n4}]?.js.gz",
+      "RelativePath": "js/index#[.{fingerprint=gm0ekedanf}]?.js.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -2131,8 +2131,8 @@
       "RelatedAsset": "C:\\Users\\LENOVO\\Desktop\\reviel\\wwwroot\\js\\index.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "2vsav9g8al",
-      "Integrity": "YgwNUW0AorahrmpXrKg5P82wu68egsx/EeIPJg4FxIw=",
+      "Fingerprint": "w7of3799sq",
+      "Integrity": "pKiRCuW+lt3Afak1XqzZLvF9K0GIAuBES12nDXmDVWk=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\LENOVO\\Desktop\\reviel\\wwwroot\\js\\index.js"
@@ -2432,12 +2432,12 @@
       "OriginalItemSpec": "C:\\Users\\LENOVO\\Desktop\\reviel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Desktop\\reviel\\obj\\Debug\\net9.0\\compressed\\h1kg0bplyx-crgc1zp8xp.gz",
+      "Identity": "C:\\Users\\LENOVO\\Desktop\\reviel\\obj\\Debug\\net9.0\\compressed\\h1kg0bplyx-htjkat6rbj.gz",
       "SourceId": "reviel",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\LENOVO\\Desktop\\reviel\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/reviel",
-      "RelativePath": "reviel#[.{fingerprint=crgc1zp8xp}]!.bundle.scp.css.gz",
+      "RelativePath": "reviel#[.{fingerprint=htjkat6rbj}]!.bundle.scp.css.gz",
       "AssetKind": "All",
       "AssetMode": "Reference",
       "AssetRole": "Alternative",
@@ -2446,8 +2446,8 @@
       "RelatedAsset": "C:\\Users\\LENOVO\\Desktop\\reviel\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\reviel.bundle.scp.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "ikx7bu160v",
-      "Integrity": "TqeQNEtlkjGky/JJqjn6GBikRtxrPfNSXoYbQs5km90=",
+      "Fingerprint": "f6z0igiexc",
+      "Integrity": "6RsgLghLDGf10aRkvtiXkZ73PS71WV/emU7YTNSqn7I=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\LENOVO\\Desktop\\reviel\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\reviel.bundle.scp.css"
@@ -2558,12 +2558,12 @@
       "OriginalItemSpec": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\9.0.5\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Desktop\\reviel\\obj\\Debug\\net9.0\\compressed\\iuwpzltb42-ffptrcojwp.gz",
+      "Identity": "C:\\Users\\LENOVO\\Desktop\\reviel\\obj\\Debug\\net9.0\\compressed\\iuwpzltb42-lgbjj1gadp.gz",
       "SourceId": "reviel",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\LENOVO\\Desktop\\reviel\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/reviel",
-      "RelativePath": "css/index#[.{fingerprint=ffptrcojwp}]?.css.gz",
+      "RelativePath": "css/index#[.{fingerprint=lgbjj1gadp}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -2572,8 +2572,8 @@
       "RelatedAsset": "C:\\Users\\LENOVO\\Desktop\\reviel\\wwwroot\\css\\index.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "d5mfleg1q7",
-      "Integrity": "H3WwxpuAOV+uW2yNbc4gZPOVOpKChdvDBcxGd7Jm550=",
+      "Fingerprint": "908hrlsysr",
+      "Integrity": "yfHheWl66glT02Rk+LdUubpASzLQ4PzvoTkk4AKgQiA=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\LENOVO\\Desktop\\reviel\\wwwroot\\css\\index.css"
@@ -2705,12 +2705,12 @@
       "OriginalItemSpec": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\9.0.5\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Desktop\\reviel\\obj\\Debug\\net9.0\\compressed\\koc5us8ci7-q3pj7llrku.gz",
+      "Identity": "C:\\Users\\LENOVO\\Desktop\\reviel\\obj\\Debug\\net9.0\\compressed\\koc5us8ci7-ll3z1entq9.gz",
       "SourceId": "reviel",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\LENOVO\\Desktop\\reviel\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/reviel",
-      "RelativePath": "css/products#[.{fingerprint=q3pj7llrku}]?.css.gz",
+      "RelativePath": "css/products#[.{fingerprint=ll3z1entq9}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -2719,8 +2719,8 @@
       "RelatedAsset": "C:\\Users\\LENOVO\\Desktop\\reviel\\wwwroot\\css\\products.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "2g9p2zocjt",
-      "Integrity": "EirFwdjvYflc4lQrMtGkgicJ1xpldS3poAf6e3CnnAA=",
+      "Fingerprint": "new0teuvq8",
+      "Integrity": "8YYrmiVMnwvjiqdKX6aI/FiMW1oJUVeDZUVa/t8s4Vw=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\LENOVO\\Desktop\\reviel\\wwwroot\\css\\products.css"
@@ -2789,12 +2789,12 @@
       "OriginalItemSpec": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\9.0.5\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Desktop\\reviel\\obj\\Debug\\net9.0\\compressed\\l4djdn06uq-m57ordrgyd.gz",
+      "Identity": "C:\\Users\\LENOVO\\Desktop\\reviel\\obj\\Debug\\net9.0\\compressed\\l4djdn06uq-y46qzgqzuw.gz",
       "SourceId": "reviel",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\LENOVO\\Desktop\\reviel\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/reviel",
-      "RelativePath": "css/admin-layout#[.{fingerprint=m57ordrgyd}]?.css.gz",
+      "RelativePath": "css/admin-layout#[.{fingerprint=y46qzgqzuw}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -2803,8 +2803,8 @@
       "RelatedAsset": "C:\\Users\\LENOVO\\Desktop\\reviel\\wwwroot\\css\\admin-layout.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "jk0x2732d5",
-      "Integrity": "3RDgh4xf6E/up1uq3dtOmRoZwFyxabOSWL2hcYk0yxs=",
+      "Fingerprint": "9hfn37rlkw",
+      "Integrity": "4wIibm/fCmbur7UDsMTcDCz+p1Vu1QrSgoS57VfRQDo=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\LENOVO\\Desktop\\reviel\\wwwroot\\css\\admin-layout.css"
@@ -2852,12 +2852,12 @@
       "OriginalItemSpec": "C:\\Users\\LENOVO\\Desktop\\reviel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Desktop\\reviel\\obj\\Debug\\net9.0\\compressed\\l987bl7y0y-3kc9cgftui.gz",
+      "Identity": "C:\\Users\\LENOVO\\Desktop\\reviel\\obj\\Debug\\net9.0\\compressed\\l987bl7y0y-a4yd9m0dlz.gz",
       "SourceId": "reviel",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\LENOVO\\Desktop\\reviel\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/reviel",
-      "RelativePath": "js/site#[.{fingerprint=3kc9cgftui}]?.js.gz",
+      "RelativePath": "js/site#[.{fingerprint=a4yd9m0dlz}]?.js.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -2866,8 +2866,8 @@
       "RelatedAsset": "C:\\Users\\LENOVO\\Desktop\\reviel\\wwwroot\\js\\site.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "f9eku3jr7h",
-      "Integrity": "zcCGyO01no2vTEU25rpNQC7uyWXjI4hr3MhT4rzBO5g=",
+      "Fingerprint": "kmqwits95k",
+      "Integrity": "zDQ0Gwre8cAKrPyQrSiHC9vuIaiDWEpHPGEvHU1KdjE=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\LENOVO\\Desktop\\reviel\\wwwroot\\js\\site.js"
@@ -2978,12 +2978,12 @@
       "OriginalItemSpec": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\9.0.5\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Desktop\\reviel\\obj\\Debug\\net9.0\\compressed\\lt3xj0gw2e-dxn50f58z1.gz",
+      "Identity": "C:\\Users\\LENOVO\\Desktop\\reviel\\obj\\Debug\\net9.0\\compressed\\lt3xj0gw2e-648yyhfue6.gz",
       "SourceId": "reviel",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\LENOVO\\Desktop\\reviel\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/reviel",
-      "RelativePath": "css/site#[.{fingerprint=dxn50f58z1}]?.css.gz",
+      "RelativePath": "css/site#[.{fingerprint=648yyhfue6}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -2992,8 +2992,8 @@
       "RelatedAsset": "C:\\Users\\LENOVO\\Desktop\\reviel\\wwwroot\\css\\site.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "jgmzdyarcd",
-      "Integrity": "c7EHKRbcb7pkTJWBTdUiAl3W9m1eVg9LTPyDpWROosw=",
+      "Fingerprint": "vqc8k9vprm",
+      "Integrity": "eYVfvv2MSLawAwbqEiGKodFmojAvZ0zV8f9qid+baAg=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\LENOVO\\Desktop\\reviel\\wwwroot\\css\\site.css"
@@ -3020,12 +3020,12 @@
       "OriginalItemSpec": "C:\\Users\\LENOVO\\Desktop\\reviel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Desktop\\reviel\\obj\\Debug\\net9.0\\compressed\\mz2t8ygwot-hibqhfqo10.gz",
+      "Identity": "C:\\Users\\LENOVO\\Desktop\\reviel\\obj\\Debug\\net9.0\\compressed\\mz2t8ygwot-0znp0rm6ix.gz",
       "SourceId": "reviel",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\LENOVO\\Desktop\\reviel\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/reviel",
-      "RelativePath": "js/before-after#[.{fingerprint=hibqhfqo10}]?.js.gz",
+      "RelativePath": "js/before-after#[.{fingerprint=0znp0rm6ix}]?.js.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -3034,8 +3034,8 @@
       "RelatedAsset": "C:\\Users\\LENOVO\\Desktop\\reviel\\wwwroot\\js\\before-after.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "y8mbp2yfwo",
-      "Integrity": "ntn7OUSizmG/de1Tkzb0I6FdsQQnwJhuh6JeAsRps/E=",
+      "Fingerprint": "qz1qlza1xo",
+      "Integrity": "avJY/Fo74lvYK1H7M+Nr3dD+F486IG9N0ZLYVu6q45I=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\LENOVO\\Desktop\\reviel\\wwwroot\\js\\before-after.js"
@@ -3251,12 +3251,12 @@
       "OriginalItemSpec": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\9.0.5\\staticwebassets\\V5\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Desktop\\reviel\\obj\\Debug\\net9.0\\compressed\\ojrbexqr47-2tvhvhfp2n.gz",
+      "Identity": "C:\\Users\\LENOVO\\Desktop\\reviel\\obj\\Debug\\net9.0\\compressed\\ojrbexqr47-189w4g114r.gz",
       "SourceId": "reviel",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\LENOVO\\Desktop\\reviel\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/reviel",
-      "RelativePath": "js/contact#[.{fingerprint=2tvhvhfp2n}]?.js.gz",
+      "RelativePath": "js/contact#[.{fingerprint=189w4g114r}]?.js.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -3265,8 +3265,8 @@
       "RelatedAsset": "C:\\Users\\LENOVO\\Desktop\\reviel\\wwwroot\\js\\contact.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "1dwclw8t4u",
-      "Integrity": "1aOZRAz+mqsZFjhOfzsx7LPm/lDXSPmynHa9P+4DNdI=",
+      "Fingerprint": "9f7ds56oj6",
+      "Integrity": "K2l4wBHKbp2uh1cW5lq6LG8smnP8SGmKJq6X7mKDJ7g=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\LENOVO\\Desktop\\reviel\\wwwroot\\js\\contact.js"
@@ -3524,12 +3524,12 @@
       "OriginalItemSpec": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\9.0.5\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Desktop\\reviel\\obj\\Debug\\net9.0\\compressed\\rtafre1so4-3eaw6aolra.gz",
+      "Identity": "C:\\Users\\LENOVO\\Desktop\\reviel\\obj\\Debug\\net9.0\\compressed\\rtafre1so4-oze8vwngmw.gz",
       "SourceId": "reviel",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\LENOVO\\Desktop\\reviel\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/reviel",
-      "RelativePath": "css/researches#[.{fingerprint=3eaw6aolra}]?.css.gz",
+      "RelativePath": "css/researches#[.{fingerprint=oze8vwngmw}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -3538,8 +3538,8 @@
       "RelatedAsset": "C:\\Users\\LENOVO\\Desktop\\reviel\\wwwroot\\css\\researches.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "3efedejg1f",
-      "Integrity": "a5obIn88JUtgjOLKpcCG9Oau/99NC9Lk6STEEQ5fwf4=",
+      "Fingerprint": "pol0tdolg1",
+      "Integrity": "N0FVBLDhywrIup79ROtHVaepnxhi8pFnTdUeO2rH98Q=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\LENOVO\\Desktop\\reviel\\wwwroot\\css\\researches.css"
@@ -3818,12 +3818,12 @@
       "OriginalItemSpec": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\9.0.5\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Desktop\\reviel\\obj\\Debug\\net9.0\\compressed\\ugnlzk0g43-crgc1zp8xp.gz",
+      "Identity": "C:\\Users\\LENOVO\\Desktop\\reviel\\obj\\Debug\\net9.0\\compressed\\ugnlzk0g43-htjkat6rbj.gz",
       "SourceId": "reviel",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\LENOVO\\Desktop\\reviel\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/reviel",
-      "RelativePath": "reviel#[.{fingerprint=crgc1zp8xp}]?.styles.css.gz",
+      "RelativePath": "reviel#[.{fingerprint=htjkat6rbj}]?.styles.css.gz",
       "AssetKind": "All",
       "AssetMode": "CurrentProject",
       "AssetRole": "Alternative",
@@ -3832,8 +3832,8 @@
       "RelatedAsset": "C:\\Users\\LENOVO\\Desktop\\reviel\\obj\\Debug\\net9.0\\scopedcss\\bundle\\reviel.styles.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "ikx7bu160v",
-      "Integrity": "TqeQNEtlkjGky/JJqjn6GBikRtxrPfNSXoYbQs5km90=",
+      "Fingerprint": "f6z0igiexc",
+      "Integrity": "6RsgLghLDGf10aRkvtiXkZ73PS71WV/emU7YTNSqn7I=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\LENOVO\\Desktop\\reviel\\obj\\Debug\\net9.0\\scopedcss\\bundle\\reviel.styles.css"
@@ -4231,8 +4231,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ApplicationBundle",
-      "Fingerprint": "crgc1zp8xp",
-      "Integrity": "KIO5zNP2AI/47DsMjiDLTEi1WDkyq4+xbBL376q3dFE=",
+      "Fingerprint": "htjkat6rbj",
+      "Integrity": "q2B6wreJtPzFJDcF8XMRIwyVh/k/ZShxwhmAQ6fTkTE=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\LENOVO\\Desktop\\reviel\\obj\\Debug\\net9.0\\scopedcss\\bundle\\reviel.styles.css"
@@ -4252,8 +4252,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ProjectBundle",
-      "Fingerprint": "crgc1zp8xp",
-      "Integrity": "KIO5zNP2AI/47DsMjiDLTEi1WDkyq4+xbBL376q3dFE=",
+      "Fingerprint": "htjkat6rbj",
+      "Integrity": "q2B6wreJtPzFJDcF8XMRIwyVh/k/ZShxwhmAQ6fTkTE=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\LENOVO\\Desktop\\reviel\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\reviel.bundle.scp.css"
@@ -4294,8 +4294,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "m57ordrgyd",
-      "Integrity": "xsa/ItubPYrk/9VMm5AMIiZQCTCUHGDPzC0P2MbWaq8=",
+      "Fingerprint": "y46qzgqzuw",
+      "Integrity": "kkQmGh55TQAF89KJ1CPe/SO4l1YPKi5AbGjxis98oOA=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\admin-layout.css"
@@ -4357,8 +4357,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "ffptrcojwp",
-      "Integrity": "+xB1ZSbReiQrYwlMxNL1CWMOlrlOb2c+bSZBnqeD90w=",
+      "Fingerprint": "lgbjj1gadp",
+      "Integrity": "OyhQ3WcJ55XzGo8w9n8noaAdOogBnWUzQ94GgK7pMEc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\index.css"
@@ -4378,8 +4378,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "q3pj7llrku",
-      "Integrity": "1vAZ1ME0Rc9cF9wrGM/OzT9S7N4BEvmG9Mvr+Gc43ng=",
+      "Fingerprint": "ll3z1entq9",
+      "Integrity": "B7oyP7P9pM21HV6DWE7xTwhFEP/IoEStdVwKQbvt2mU=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\products.css"
@@ -4399,8 +4399,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "3eaw6aolra",
-      "Integrity": "ZRUtviFcXMHCEx8NMe39GBPzTin5qAaoZB/Zi1Otu+M=",
+      "Fingerprint": "oze8vwngmw",
+      "Integrity": "5GwJqbgsHAEkz3kQWM96KbjdZ2kJblaxZMsUtPGllV8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\researches.css"
@@ -4420,8 +4420,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "dxn50f58z1",
-      "Integrity": "nwuYz5T9Vk/58l0ejMhq+EjNbkfDg6Ve8zKOLIhKpvM=",
+      "Fingerprint": "648yyhfue6",
+      "Integrity": "lhMIf7NxOEx2rzshfl3lj2dHVFiIlVfcMRc3wDEhxrM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
@@ -4672,8 +4672,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "hibqhfqo10",
-      "Integrity": "N1ZLbU0/bmfgSumOi8TXL1EfG3bEt5CZUWSdVUaBuW4=",
+      "Fingerprint": "0znp0rm6ix",
+      "Integrity": "nHGImK4Q1g84/W1xQt+oynaPe4I/u3zT5XHJzAd2pLQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\before-after.js"
@@ -4693,8 +4693,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "2tvhvhfp2n",
-      "Integrity": "urHf+tEJlUKAiZm7YfdJlRrEbtH6KVNTSrkQyfQd7xo=",
+      "Fingerprint": "189w4g114r",
+      "Integrity": "T/XqWV9IZka1sYrAnUVFwVOn2MDxpWOFyH0jvhvwW/k=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\contact.js"
@@ -4714,8 +4714,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "uhlu0dn8n4",
-      "Integrity": "UowTvIIfBfBZJ4A5SGbQlB4+ijITBMh37fVVgXvTeXY=",
+      "Fingerprint": "gm0ekedanf",
+      "Integrity": "WCm7Khl7M3vBL98zRV/MRYuHVokmHVoLIL2OZ3/AnFs=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\index.js"
@@ -4735,8 +4735,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "3kc9cgftui",
-      "Integrity": "06NZMUarFIdG/BCASUh73arJ1En7aTlxKHzUiQe9+ws=",
+      "Fingerprint": "a4yd9m0dlz",
+      "Integrity": "BhG7EQj8axDdeXAboJY6GOUiKIGAI7IzRFgRBInQ3is=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\site.js"
@@ -6429,12 +6429,12 @@
     },
     {
       "Route": "css/admin-layout.css",
-      "AssetFile": "C:\\Users\\LENOVO\\Desktop\\reviel\\obj\\Debug\\net9.0\\compressed\\l4djdn06uq-m57ordrgyd.gz",
+      "AssetFile": "C:\\Users\\LENOVO\\Desktop\\reviel\\obj\\Debug\\net9.0\\compressed\\l4djdn06uq-y46qzgqzuw.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001739130435"
+          "Quality": "0.001886792453"
         }
       ],
       "ResponseHeaders": [
@@ -6444,15 +6444,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "574"
+          "Value": "529"
         },
         {
           "Name": "ETag",
-          "Value": "\"3RDgh4xf6E/up1uq3dtOmRoZwFyxabOSWL2hcYk0yxs=\""
+          "Value": "\"4wIibm/fCmbur7UDsMTcDCz+p1Vu1QrSgoS57VfRQDo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 16:07:26 GMT"
+          "Value": "Wed, 21 May 2025 17:25:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6472,13 +6472,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"xsa/ItubPYrk/9VMm5AMIiZQCTCUHGDPzC0P2MbWaq8=\""
+          "Value": "W/\"kkQmGh55TQAF89KJ1CPe/SO4l1YPKi5AbGjxis98oOA=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-xsa/ItubPYrk/9VMm5AMIiZQCTCUHGDPzC0P2MbWaq8="
+          "Value": "sha256-kkQmGh55TQAF89KJ1CPe/SO4l1YPKi5AbGjxis98oOA="
         }
       ]
     },
@@ -6493,7 +6493,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1261"
+          "Value": "1171"
         },
         {
           "Name": "Content-Type",
@@ -6501,11 +6501,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"xsa/ItubPYrk/9VMm5AMIiZQCTCUHGDPzC0P2MbWaq8=\""
+          "Value": "\"kkQmGh55TQAF89KJ1CPe/SO4l1YPKi5AbGjxis98oOA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 16:07:26 GMT"
+          "Value": "Wed, 21 May 2025 17:25:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6515,13 +6515,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-xsa/ItubPYrk/9VMm5AMIiZQCTCUHGDPzC0P2MbWaq8="
+          "Value": "sha256-kkQmGh55TQAF89KJ1CPe/SO4l1YPKi5AbGjxis98oOA="
         }
       ]
     },
     {
       "Route": "css/admin-layout.css.gz",
-      "AssetFile": "C:\\Users\\LENOVO\\Desktop\\reviel\\obj\\Debug\\net9.0\\compressed\\l4djdn06uq-m57ordrgyd.gz",
+      "AssetFile": "C:\\Users\\LENOVO\\Desktop\\reviel\\obj\\Debug\\net9.0\\compressed\\l4djdn06uq-y46qzgqzuw.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6530,7 +6530,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "574"
+          "Value": "529"
         },
         {
           "Name": "Content-Type",
@@ -6538,11 +6538,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"3RDgh4xf6E/up1uq3dtOmRoZwFyxabOSWL2hcYk0yxs=\""
+          "Value": "\"4wIibm/fCmbur7UDsMTcDCz+p1Vu1QrSgoS57VfRQDo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 16:07:26 GMT"
+          "Value": "Wed, 21 May 2025 17:25:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6560,18 +6560,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-3RDgh4xf6E/up1uq3dtOmRoZwFyxabOSWL2hcYk0yxs="
+          "Value": "sha256-4wIibm/fCmbur7UDsMTcDCz+p1Vu1QrSgoS57VfRQDo="
         }
       ]
     },
     {
-      "Route": "css/admin-layout.m57ordrgyd.css",
-      "AssetFile": "C:\\Users\\LENOVO\\Desktop\\reviel\\obj\\Debug\\net9.0\\compressed\\l4djdn06uq-m57ordrgyd.gz",
+      "Route": "css/admin-layout.y46qzgqzuw.css",
+      "AssetFile": "C:\\Users\\LENOVO\\Desktop\\reviel\\obj\\Debug\\net9.0\\compressed\\l4djdn06uq-y46qzgqzuw.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001739130435"
+          "Quality": "0.001886792453"
         }
       ],
       "ResponseHeaders": [
@@ -6581,15 +6581,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "574"
+          "Value": "529"
         },
         {
           "Name": "ETag",
-          "Value": "\"3RDgh4xf6E/up1uq3dtOmRoZwFyxabOSWL2hcYk0yxs=\""
+          "Value": "\"4wIibm/fCmbur7UDsMTcDCz+p1Vu1QrSgoS57VfRQDo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 16:07:26 GMT"
+          "Value": "Wed, 21 May 2025 17:25:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6609,13 +6609,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"xsa/ItubPYrk/9VMm5AMIiZQCTCUHGDPzC0P2MbWaq8=\""
+          "Value": "W/\"kkQmGh55TQAF89KJ1CPe/SO4l1YPKi5AbGjxis98oOA=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "m57ordrgyd"
+          "Value": "y46qzgqzuw"
         },
         {
           "Name": "label",
@@ -6623,12 +6623,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-xsa/ItubPYrk/9VMm5AMIiZQCTCUHGDPzC0P2MbWaq8="
+          "Value": "sha256-kkQmGh55TQAF89KJ1CPe/SO4l1YPKi5AbGjxis98oOA="
         }
       ]
     },
     {
-      "Route": "css/admin-layout.m57ordrgyd.css",
+      "Route": "css/admin-layout.y46qzgqzuw.css",
       "AssetFile": "C:\\Users\\LENOVO\\Desktop\\reviel\\wwwroot\\css\\admin-layout.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -6638,7 +6638,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1261"
+          "Value": "1171"
         },
         {
           "Name": "Content-Type",
@@ -6646,11 +6646,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"xsa/ItubPYrk/9VMm5AMIiZQCTCUHGDPzC0P2MbWaq8=\""
+          "Value": "\"kkQmGh55TQAF89KJ1CPe/SO4l1YPKi5AbGjxis98oOA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 16:07:26 GMT"
+          "Value": "Wed, 21 May 2025 17:25:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6660,7 +6660,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "m57ordrgyd"
+          "Value": "y46qzgqzuw"
         },
         {
           "Name": "label",
@@ -6668,13 +6668,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-xsa/ItubPYrk/9VMm5AMIiZQCTCUHGDPzC0P2MbWaq8="
+          "Value": "sha256-kkQmGh55TQAF89KJ1CPe/SO4l1YPKi5AbGjxis98oOA="
         }
       ]
     },
     {
-      "Route": "css/admin-layout.m57ordrgyd.css.gz",
-      "AssetFile": "C:\\Users\\LENOVO\\Desktop\\reviel\\obj\\Debug\\net9.0\\compressed\\l4djdn06uq-m57ordrgyd.gz",
+      "Route": "css/admin-layout.y46qzgqzuw.css.gz",
+      "AssetFile": "C:\\Users\\LENOVO\\Desktop\\reviel\\obj\\Debug\\net9.0\\compressed\\l4djdn06uq-y46qzgqzuw.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6683,7 +6683,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "574"
+          "Value": "529"
         },
         {
           "Name": "Content-Type",
@@ -6691,11 +6691,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"3RDgh4xf6E/up1uq3dtOmRoZwFyxabOSWL2hcYk0yxs=\""
+          "Value": "\"4wIibm/fCmbur7UDsMTcDCz+p1Vu1QrSgoS57VfRQDo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 16:07:26 GMT"
+          "Value": "Wed, 21 May 2025 17:25:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6713,7 +6713,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "m57ordrgyd"
+          "Value": "y46qzgqzuw"
         },
         {
           "Name": "label",
@@ -6721,7 +6721,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-3RDgh4xf6E/up1uq3dtOmRoZwFyxabOSWL2hcYk0yxs="
+          "Value": "sha256-4wIibm/fCmbur7UDsMTcDCz+p1Vu1QrSgoS57VfRQDo="
         }
       ]
     },
@@ -7323,12 +7323,12 @@
     },
     {
       "Route": "css/index.css",
-      "AssetFile": "C:\\Users\\LENOVO\\Desktop\\reviel\\obj\\Debug\\net9.0\\compressed\\iuwpzltb42-ffptrcojwp.gz",
+      "AssetFile": "C:\\Users\\LENOVO\\Desktop\\reviel\\obj\\Debug\\net9.0\\compressed\\iuwpzltb42-lgbjj1gadp.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000478011472"
+          "Quality": "0.000478927203"
         }
       ],
       "ResponseHeaders": [
@@ -7338,15 +7338,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2091"
+          "Value": "2087"
         },
         {
           "Name": "ETag",
-          "Value": "\"H3WwxpuAOV+uW2yNbc4gZPOVOpKChdvDBcxGd7Jm550=\""
+          "Value": "\"yfHheWl66glT02Rk+LdUubpASzLQ4PzvoTkk4AKgQiA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 19 May 2025 11:37:38 GMT"
+          "Value": "Wed, 21 May 2025 17:25:59 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7366,13 +7366,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"+xB1ZSbReiQrYwlMxNL1CWMOlrlOb2c+bSZBnqeD90w=\""
+          "Value": "W/\"OyhQ3WcJ55XzGo8w9n8noaAdOogBnWUzQ94GgK7pMEc=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-+xB1ZSbReiQrYwlMxNL1CWMOlrlOb2c+bSZBnqeD90w="
+          "Value": "sha256-OyhQ3WcJ55XzGo8w9n8noaAdOogBnWUzQ94GgK7pMEc="
         }
       ]
     },
@@ -7387,7 +7387,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "9232"
+          "Value": "9139"
         },
         {
           "Name": "Content-Type",
@@ -7395,11 +7395,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"+xB1ZSbReiQrYwlMxNL1CWMOlrlOb2c+bSZBnqeD90w=\""
+          "Value": "\"OyhQ3WcJ55XzGo8w9n8noaAdOogBnWUzQ94GgK7pMEc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 19 May 2025 11:37:38 GMT"
+          "Value": "Wed, 21 May 2025 17:25:59 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7409,13 +7409,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-+xB1ZSbReiQrYwlMxNL1CWMOlrlOb2c+bSZBnqeD90w="
+          "Value": "sha256-OyhQ3WcJ55XzGo8w9n8noaAdOogBnWUzQ94GgK7pMEc="
         }
       ]
     },
     {
       "Route": "css/index.css.gz",
-      "AssetFile": "C:\\Users\\LENOVO\\Desktop\\reviel\\obj\\Debug\\net9.0\\compressed\\iuwpzltb42-ffptrcojwp.gz",
+      "AssetFile": "C:\\Users\\LENOVO\\Desktop\\reviel\\obj\\Debug\\net9.0\\compressed\\iuwpzltb42-lgbjj1gadp.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7424,7 +7424,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2091"
+          "Value": "2087"
         },
         {
           "Name": "Content-Type",
@@ -7432,11 +7432,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"H3WwxpuAOV+uW2yNbc4gZPOVOpKChdvDBcxGd7Jm550=\""
+          "Value": "\"yfHheWl66glT02Rk+LdUubpASzLQ4PzvoTkk4AKgQiA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 19 May 2025 11:37:38 GMT"
+          "Value": "Wed, 21 May 2025 17:25:59 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7454,18 +7454,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-H3WwxpuAOV+uW2yNbc4gZPOVOpKChdvDBcxGd7Jm550="
+          "Value": "sha256-yfHheWl66glT02Rk+LdUubpASzLQ4PzvoTkk4AKgQiA="
         }
       ]
     },
     {
-      "Route": "css/index.ffptrcojwp.css",
-      "AssetFile": "C:\\Users\\LENOVO\\Desktop\\reviel\\obj\\Debug\\net9.0\\compressed\\iuwpzltb42-ffptrcojwp.gz",
+      "Route": "css/index.lgbjj1gadp.css",
+      "AssetFile": "C:\\Users\\LENOVO\\Desktop\\reviel\\obj\\Debug\\net9.0\\compressed\\iuwpzltb42-lgbjj1gadp.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000478011472"
+          "Quality": "0.000478927203"
         }
       ],
       "ResponseHeaders": [
@@ -7475,15 +7475,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2091"
+          "Value": "2087"
         },
         {
           "Name": "ETag",
-          "Value": "\"H3WwxpuAOV+uW2yNbc4gZPOVOpKChdvDBcxGd7Jm550=\""
+          "Value": "\"yfHheWl66glT02Rk+LdUubpASzLQ4PzvoTkk4AKgQiA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 19 May 2025 11:37:38 GMT"
+          "Value": "Wed, 21 May 2025 17:25:59 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7503,13 +7503,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"+xB1ZSbReiQrYwlMxNL1CWMOlrlOb2c+bSZBnqeD90w=\""
+          "Value": "W/\"OyhQ3WcJ55XzGo8w9n8noaAdOogBnWUzQ94GgK7pMEc=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "ffptrcojwp"
+          "Value": "lgbjj1gadp"
         },
         {
           "Name": "label",
@@ -7517,12 +7517,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-+xB1ZSbReiQrYwlMxNL1CWMOlrlOb2c+bSZBnqeD90w="
+          "Value": "sha256-OyhQ3WcJ55XzGo8w9n8noaAdOogBnWUzQ94GgK7pMEc="
         }
       ]
     },
     {
-      "Route": "css/index.ffptrcojwp.css",
+      "Route": "css/index.lgbjj1gadp.css",
       "AssetFile": "C:\\Users\\LENOVO\\Desktop\\reviel\\wwwroot\\css\\index.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -7532,7 +7532,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "9232"
+          "Value": "9139"
         },
         {
           "Name": "Content-Type",
@@ -7540,11 +7540,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"+xB1ZSbReiQrYwlMxNL1CWMOlrlOb2c+bSZBnqeD90w=\""
+          "Value": "\"OyhQ3WcJ55XzGo8w9n8noaAdOogBnWUzQ94GgK7pMEc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 19 May 2025 11:37:38 GMT"
+          "Value": "Wed, 21 May 2025 17:25:59 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7554,7 +7554,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "ffptrcojwp"
+          "Value": "lgbjj1gadp"
         },
         {
           "Name": "label",
@@ -7562,13 +7562,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-+xB1ZSbReiQrYwlMxNL1CWMOlrlOb2c+bSZBnqeD90w="
+          "Value": "sha256-OyhQ3WcJ55XzGo8w9n8noaAdOogBnWUzQ94GgK7pMEc="
         }
       ]
     },
     {
-      "Route": "css/index.ffptrcojwp.css.gz",
-      "AssetFile": "C:\\Users\\LENOVO\\Desktop\\reviel\\obj\\Debug\\net9.0\\compressed\\iuwpzltb42-ffptrcojwp.gz",
+      "Route": "css/index.lgbjj1gadp.css.gz",
+      "AssetFile": "C:\\Users\\LENOVO\\Desktop\\reviel\\obj\\Debug\\net9.0\\compressed\\iuwpzltb42-lgbjj1gadp.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7577,7 +7577,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2091"
+          "Value": "2087"
         },
         {
           "Name": "Content-Type",
@@ -7585,11 +7585,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"H3WwxpuAOV+uW2yNbc4gZPOVOpKChdvDBcxGd7Jm550=\""
+          "Value": "\"yfHheWl66glT02Rk+LdUubpASzLQ4PzvoTkk4AKgQiA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 19 May 2025 11:37:38 GMT"
+          "Value": "Wed, 21 May 2025 17:25:59 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7607,7 +7607,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "ffptrcojwp"
+          "Value": "lgbjj1gadp"
         },
         {
           "Name": "label",
@@ -7615,18 +7615,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-H3WwxpuAOV+uW2yNbc4gZPOVOpKChdvDBcxGd7Jm550="
+          "Value": "sha256-yfHheWl66glT02Rk+LdUubpASzLQ4PzvoTkk4AKgQiA="
         }
       ]
     },
     {
       "Route": "css/products.css",
-      "AssetFile": "C:\\Users\\LENOVO\\Desktop\\reviel\\obj\\Debug\\net9.0\\compressed\\koc5us8ci7-q3pj7llrku.gz",
+      "AssetFile": "C:\\Users\\LENOVO\\Desktop\\reviel\\obj\\Debug\\net9.0\\compressed\\koc5us8ci7-ll3z1entq9.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000523012552"
+          "Quality": "0.000659195781"
         }
       ],
       "ResponseHeaders": [
@@ -7636,15 +7636,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1911"
+          "Value": "1516"
         },
         {
           "Name": "ETag",
-          "Value": "\"EirFwdjvYflc4lQrMtGkgicJ1xpldS3poAf6e3CnnAA=\""
+          "Value": "\"8YYrmiVMnwvjiqdKX6aI/FiMW1oJUVeDZUVa/t8s4Vw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 18:02:55 GMT"
+          "Value": "Wed, 21 May 2025 17:27:17 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7664,13 +7664,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"1vAZ1ME0Rc9cF9wrGM/OzT9S7N4BEvmG9Mvr+Gc43ng=\""
+          "Value": "W/\"B7oyP7P9pM21HV6DWE7xTwhFEP/IoEStdVwKQbvt2mU=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-1vAZ1ME0Rc9cF9wrGM/OzT9S7N4BEvmG9Mvr+Gc43ng="
+          "Value": "sha256-B7oyP7P9pM21HV6DWE7xTwhFEP/IoEStdVwKQbvt2mU="
         }
       ]
     },
@@ -7685,7 +7685,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "6206"
+          "Value": "4926"
         },
         {
           "Name": "Content-Type",
@@ -7693,11 +7693,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"1vAZ1ME0Rc9cF9wrGM/OzT9S7N4BEvmG9Mvr+Gc43ng=\""
+          "Value": "\"B7oyP7P9pM21HV6DWE7xTwhFEP/IoEStdVwKQbvt2mU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 18:02:55 GMT"
+          "Value": "Wed, 21 May 2025 17:27:17 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7707,13 +7707,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-1vAZ1ME0Rc9cF9wrGM/OzT9S7N4BEvmG9Mvr+Gc43ng="
+          "Value": "sha256-B7oyP7P9pM21HV6DWE7xTwhFEP/IoEStdVwKQbvt2mU="
         }
       ]
     },
     {
       "Route": "css/products.css.gz",
-      "AssetFile": "C:\\Users\\LENOVO\\Desktop\\reviel\\obj\\Debug\\net9.0\\compressed\\koc5us8ci7-q3pj7llrku.gz",
+      "AssetFile": "C:\\Users\\LENOVO\\Desktop\\reviel\\obj\\Debug\\net9.0\\compressed\\koc5us8ci7-ll3z1entq9.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7722,7 +7722,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1911"
+          "Value": "1516"
         },
         {
           "Name": "Content-Type",
@@ -7730,11 +7730,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"EirFwdjvYflc4lQrMtGkgicJ1xpldS3poAf6e3CnnAA=\""
+          "Value": "\"8YYrmiVMnwvjiqdKX6aI/FiMW1oJUVeDZUVa/t8s4Vw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 18:02:55 GMT"
+          "Value": "Wed, 21 May 2025 17:27:17 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7752,18 +7752,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-EirFwdjvYflc4lQrMtGkgicJ1xpldS3poAf6e3CnnAA="
+          "Value": "sha256-8YYrmiVMnwvjiqdKX6aI/FiMW1oJUVeDZUVa/t8s4Vw="
         }
       ]
     },
     {
-      "Route": "css/products.q3pj7llrku.css",
-      "AssetFile": "C:\\Users\\LENOVO\\Desktop\\reviel\\obj\\Debug\\net9.0\\compressed\\koc5us8ci7-q3pj7llrku.gz",
+      "Route": "css/products.ll3z1entq9.css",
+      "AssetFile": "C:\\Users\\LENOVO\\Desktop\\reviel\\obj\\Debug\\net9.0\\compressed\\koc5us8ci7-ll3z1entq9.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000523012552"
+          "Quality": "0.000659195781"
         }
       ],
       "ResponseHeaders": [
@@ -7773,15 +7773,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1911"
+          "Value": "1516"
         },
         {
           "Name": "ETag",
-          "Value": "\"EirFwdjvYflc4lQrMtGkgicJ1xpldS3poAf6e3CnnAA=\""
+          "Value": "\"8YYrmiVMnwvjiqdKX6aI/FiMW1oJUVeDZUVa/t8s4Vw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 18:02:55 GMT"
+          "Value": "Wed, 21 May 2025 17:27:17 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7801,13 +7801,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"1vAZ1ME0Rc9cF9wrGM/OzT9S7N4BEvmG9Mvr+Gc43ng=\""
+          "Value": "W/\"B7oyP7P9pM21HV6DWE7xTwhFEP/IoEStdVwKQbvt2mU=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "q3pj7llrku"
+          "Value": "ll3z1entq9"
         },
         {
           "Name": "label",
@@ -7815,12 +7815,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-1vAZ1ME0Rc9cF9wrGM/OzT9S7N4BEvmG9Mvr+Gc43ng="
+          "Value": "sha256-B7oyP7P9pM21HV6DWE7xTwhFEP/IoEStdVwKQbvt2mU="
         }
       ]
     },
     {
-      "Route": "css/products.q3pj7llrku.css",
+      "Route": "css/products.ll3z1entq9.css",
       "AssetFile": "C:\\Users\\LENOVO\\Desktop\\reviel\\wwwroot\\css\\products.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -7830,7 +7830,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "6206"
+          "Value": "4926"
         },
         {
           "Name": "Content-Type",
@@ -7838,11 +7838,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"1vAZ1ME0Rc9cF9wrGM/OzT9S7N4BEvmG9Mvr+Gc43ng=\""
+          "Value": "\"B7oyP7P9pM21HV6DWE7xTwhFEP/IoEStdVwKQbvt2mU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 18:02:55 GMT"
+          "Value": "Wed, 21 May 2025 17:27:17 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7852,7 +7852,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "q3pj7llrku"
+          "Value": "ll3z1entq9"
         },
         {
           "Name": "label",
@@ -7860,13 +7860,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-1vAZ1ME0Rc9cF9wrGM/OzT9S7N4BEvmG9Mvr+Gc43ng="
+          "Value": "sha256-B7oyP7P9pM21HV6DWE7xTwhFEP/IoEStdVwKQbvt2mU="
         }
       ]
     },
     {
-      "Route": "css/products.q3pj7llrku.css.gz",
-      "AssetFile": "C:\\Users\\LENOVO\\Desktop\\reviel\\obj\\Debug\\net9.0\\compressed\\koc5us8ci7-q3pj7llrku.gz",
+      "Route": "css/products.ll3z1entq9.css.gz",
+      "AssetFile": "C:\\Users\\LENOVO\\Desktop\\reviel\\obj\\Debug\\net9.0\\compressed\\koc5us8ci7-ll3z1entq9.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7875,7 +7875,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1911"
+          "Value": "1516"
         },
         {
           "Name": "Content-Type",
@@ -7883,11 +7883,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"EirFwdjvYflc4lQrMtGkgicJ1xpldS3poAf6e3CnnAA=\""
+          "Value": "\"8YYrmiVMnwvjiqdKX6aI/FiMW1oJUVeDZUVa/t8s4Vw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 18:02:55 GMT"
+          "Value": "Wed, 21 May 2025 17:27:17 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7905,7 +7905,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "q3pj7llrku"
+          "Value": "ll3z1entq9"
         },
         {
           "Name": "label",
@@ -7913,18 +7913,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-EirFwdjvYflc4lQrMtGkgicJ1xpldS3poAf6e3CnnAA="
+          "Value": "sha256-8YYrmiVMnwvjiqdKX6aI/FiMW1oJUVeDZUVa/t8s4Vw="
         }
       ]
     },
     {
-      "Route": "css/researches.3eaw6aolra.css",
-      "AssetFile": "C:\\Users\\LENOVO\\Desktop\\reviel\\obj\\Debug\\net9.0\\compressed\\rtafre1so4-3eaw6aolra.gz",
+      "Route": "css/researches.css",
+      "AssetFile": "C:\\Users\\LENOVO\\Desktop\\reviel\\obj\\Debug\\net9.0\\compressed\\rtafre1so4-oze8vwngmw.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001084598698"
+          "Quality": "0.001215066829"
         }
       ],
       "ResponseHeaders": [
@@ -7934,19 +7934,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "921"
+          "Value": "822"
         },
         {
           "Name": "ETag",
-          "Value": "\"a5obIn88JUtgjOLKpcCG9Oau/99NC9Lk6STEEQ5fwf4=\""
+          "Value": "\"N0FVBLDhywrIup79ROtHVaepnxhi8pFnTdUeO2rH98Q=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 18 May 2025 18:35:17 GMT"
+          "Value": "Tue, 20 May 2025 18:40:35 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
+          "Value": "no-cache"
         },
         {
           "Name": "Content-Encoding",
@@ -7962,26 +7962,18 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"ZRUtviFcXMHCEx8NMe39GBPzTin5qAaoZB/Zi1Otu+M=\""
+          "Value": "W/\"5GwJqbgsHAEkz3kQWM96KbjdZ2kJblaxZMsUtPGllV8=\""
         }
       ],
       "EndpointProperties": [
         {
-          "Name": "fingerprint",
-          "Value": "3eaw6aolra"
-        },
-        {
-          "Name": "label",
-          "Value": "css/researches.css"
-        },
-        {
           "Name": "integrity",
-          "Value": "sha256-ZRUtviFcXMHCEx8NMe39GBPzTin5qAaoZB/Zi1Otu+M="
+          "Value": "sha256-5GwJqbgsHAEkz3kQWM96KbjdZ2kJblaxZMsUtPGllV8="
         }
       ]
     },
     {
-      "Route": "css/researches.3eaw6aolra.css",
+      "Route": "css/researches.css",
       "AssetFile": "C:\\Users\\LENOVO\\Desktop\\reviel\\wwwroot\\css\\researches.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -7991,7 +7983,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2652"
+          "Value": "2490"
         },
         {
           "Name": "Content-Type",
@@ -7999,11 +7991,156 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ZRUtviFcXMHCEx8NMe39GBPzTin5qAaoZB/Zi1Otu+M=\""
+          "Value": "\"5GwJqbgsHAEkz3kQWM96KbjdZ2kJblaxZMsUtPGllV8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 18 May 2025 18:35:17 GMT"
+          "Value": "Tue, 20 May 2025 18:40:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5GwJqbgsHAEkz3kQWM96KbjdZ2kJblaxZMsUtPGllV8="
+        }
+      ]
+    },
+    {
+      "Route": "css/researches.css.gz",
+      "AssetFile": "C:\\Users\\LENOVO\\Desktop\\reviel\\obj\\Debug\\net9.0\\compressed\\rtafre1so4-oze8vwngmw.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "822"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"N0FVBLDhywrIup79ROtHVaepnxhi8pFnTdUeO2rH98Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 20 May 2025 18:40:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-N0FVBLDhywrIup79ROtHVaepnxhi8pFnTdUeO2rH98Q="
+        }
+      ]
+    },
+    {
+      "Route": "css/researches.oze8vwngmw.css",
+      "AssetFile": "C:\\Users\\LENOVO\\Desktop\\reviel\\obj\\Debug\\net9.0\\compressed\\rtafre1so4-oze8vwngmw.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001215066829"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "822"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"N0FVBLDhywrIup79ROtHVaepnxhi8pFnTdUeO2rH98Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 20 May 2025 18:40:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"5GwJqbgsHAEkz3kQWM96KbjdZ2kJblaxZMsUtPGllV8=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "oze8vwngmw"
+        },
+        {
+          "Name": "label",
+          "Value": "css/researches.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5GwJqbgsHAEkz3kQWM96KbjdZ2kJblaxZMsUtPGllV8="
+        }
+      ]
+    },
+    {
+      "Route": "css/researches.oze8vwngmw.css",
+      "AssetFile": "C:\\Users\\LENOVO\\Desktop\\reviel\\wwwroot\\css\\researches.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2490"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5GwJqbgsHAEkz3kQWM96KbjdZ2kJblaxZMsUtPGllV8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 20 May 2025 18:40:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8013,7 +8150,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "3eaw6aolra"
+          "Value": "oze8vwngmw"
         },
         {
           "Name": "label",
@@ -8021,13 +8158,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-ZRUtviFcXMHCEx8NMe39GBPzTin5qAaoZB/Zi1Otu+M="
+          "Value": "sha256-5GwJqbgsHAEkz3kQWM96KbjdZ2kJblaxZMsUtPGllV8="
         }
       ]
     },
     {
-      "Route": "css/researches.3eaw6aolra.css.gz",
-      "AssetFile": "C:\\Users\\LENOVO\\Desktop\\reviel\\obj\\Debug\\net9.0\\compressed\\rtafre1so4-3eaw6aolra.gz",
+      "Route": "css/researches.oze8vwngmw.css.gz",
+      "AssetFile": "C:\\Users\\LENOVO\\Desktop\\reviel\\obj\\Debug\\net9.0\\compressed\\rtafre1so4-oze8vwngmw.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8036,7 +8173,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "921"
+          "Value": "822"
         },
         {
           "Name": "Content-Type",
@@ -8044,11 +8181,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"a5obIn88JUtgjOLKpcCG9Oau/99NC9Lk6STEEQ5fwf4=\""
+          "Value": "\"N0FVBLDhywrIup79ROtHVaepnxhi8pFnTdUeO2rH98Q=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 18 May 2025 18:35:17 GMT"
+          "Value": "Tue, 20 May 2025 18:40:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8066,7 +8203,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "3eaw6aolra"
+          "Value": "oze8vwngmw"
         },
         {
           "Name": "label",
@@ -8074,18 +8211,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-a5obIn88JUtgjOLKpcCG9Oau/99NC9Lk6STEEQ5fwf4="
+          "Value": "sha256-N0FVBLDhywrIup79ROtHVaepnxhi8pFnTdUeO2rH98Q="
         }
       ]
     },
     {
-      "Route": "css/researches.css",
-      "AssetFile": "C:\\Users\\LENOVO\\Desktop\\reviel\\obj\\Debug\\net9.0\\compressed\\rtafre1so4-3eaw6aolra.gz",
+      "Route": "css/site.648yyhfue6.css",
+      "AssetFile": "C:\\Users\\LENOVO\\Desktop\\reviel\\obj\\Debug\\net9.0\\compressed\\lt3xj0gw2e-648yyhfue6.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001084598698"
+          "Quality": "0.000967117988"
         }
       ],
       "ResponseHeaders": [
@@ -8095,19 +8232,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "921"
+          "Value": "1033"
         },
         {
           "Name": "ETag",
-          "Value": "\"a5obIn88JUtgjOLKpcCG9Oau/99NC9Lk6STEEQ5fwf4=\""
+          "Value": "\"eYVfvv2MSLawAwbqEiGKodFmojAvZ0zV8f9qid+baAg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 18 May 2025 18:35:17 GMT"
+          "Value": "Wed, 21 May 2025 17:27:55 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "no-cache"
+          "Value": "max-age=31536000, immutable"
         },
         {
           "Name": "Content-Encoding",
@@ -8123,155 +8260,26 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"ZRUtviFcXMHCEx8NMe39GBPzTin5qAaoZB/Zi1Otu+M=\""
+          "Value": "W/\"lhMIf7NxOEx2rzshfl3lj2dHVFiIlVfcMRc3wDEhxrM=\""
         }
       ],
       "EndpointProperties": [
         {
+          "Name": "fingerprint",
+          "Value": "648yyhfue6"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
           "Name": "integrity",
-          "Value": "sha256-ZRUtviFcXMHCEx8NMe39GBPzTin5qAaoZB/Zi1Otu+M="
+          "Value": "sha256-lhMIf7NxOEx2rzshfl3lj2dHVFiIlVfcMRc3wDEhxrM="
         }
       ]
     },
     {
-      "Route": "css/researches.css",
-      "AssetFile": "C:\\Users\\LENOVO\\Desktop\\reviel\\wwwroot\\css\\researches.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "2652"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"ZRUtviFcXMHCEx8NMe39GBPzTin5qAaoZB/Zi1Otu+M=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 18 May 2025 18:35:17 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-ZRUtviFcXMHCEx8NMe39GBPzTin5qAaoZB/Zi1Otu+M="
-        }
-      ]
-    },
-    {
-      "Route": "css/researches.css.gz",
-      "AssetFile": "C:\\Users\\LENOVO\\Desktop\\reviel\\obj\\Debug\\net9.0\\compressed\\rtafre1so4-3eaw6aolra.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "921"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"a5obIn88JUtgjOLKpcCG9Oau/99NC9Lk6STEEQ5fwf4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 18 May 2025 18:35:17 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-a5obIn88JUtgjOLKpcCG9Oau/99NC9Lk6STEEQ5fwf4="
-        }
-      ]
-    },
-    {
-      "Route": "css/site.css",
-      "AssetFile": "C:\\Users\\LENOVO\\Desktop\\reviel\\obj\\Debug\\net9.0\\compressed\\lt3xj0gw2e-dxn50f58z1.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000643500644"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1553"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"c7EHKRbcb7pkTJWBTdUiAl3W9m1eVg9LTPyDpWROosw=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 18:02:49 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"nwuYz5T9Vk/58l0ejMhq+EjNbkfDg6Ve8zKOLIhKpvM=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-nwuYz5T9Vk/58l0ejMhq+EjNbkfDg6Ve8zKOLIhKpvM="
-        }
-      ]
-    },
-    {
-      "Route": "css/site.css",
+      "Route": "css/site.648yyhfue6.css",
       "AssetFile": "C:\\Users\\LENOVO\\Desktop\\reviel\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -8281,7 +8289,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3739"
+          "Value": "2646"
         },
         {
           "Name": "Content-Type",
@@ -8289,121 +8297,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"nwuYz5T9Vk/58l0ejMhq+EjNbkfDg6Ve8zKOLIhKpvM=\""
+          "Value": "\"lhMIf7NxOEx2rzshfl3lj2dHVFiIlVfcMRc3wDEhxrM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 18:02:49 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-nwuYz5T9Vk/58l0ejMhq+EjNbkfDg6Ve8zKOLIhKpvM="
-        }
-      ]
-    },
-    {
-      "Route": "css/site.css.gz",
-      "AssetFile": "C:\\Users\\LENOVO\\Desktop\\reviel\\obj\\Debug\\net9.0\\compressed\\lt3xj0gw2e-dxn50f58z1.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1553"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"c7EHKRbcb7pkTJWBTdUiAl3W9m1eVg9LTPyDpWROosw=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 18:02:49 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-c7EHKRbcb7pkTJWBTdUiAl3W9m1eVg9LTPyDpWROosw="
-        }
-      ]
-    },
-    {
-      "Route": "css/site.dxn50f58z1.css",
-      "AssetFile": "C:\\Users\\LENOVO\\Desktop\\reviel\\obj\\Debug\\net9.0\\compressed\\lt3xj0gw2e-dxn50f58z1.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000643500644"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1553"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"c7EHKRbcb7pkTJWBTdUiAl3W9m1eVg9LTPyDpWROosw=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 18:02:49 GMT"
+          "Value": "Wed, 21 May 2025 17:27:55 GMT"
         },
         {
           "Name": "Cache-Control",
           "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"nwuYz5T9Vk/58l0ejMhq+EjNbkfDg6Ve8zKOLIhKpvM=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "dxn50f58z1"
+          "Value": "648yyhfue6"
         },
         {
           "Name": "label",
@@ -8411,13 +8319,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-nwuYz5T9Vk/58l0ejMhq+EjNbkfDg6Ve8zKOLIhKpvM="
+          "Value": "sha256-lhMIf7NxOEx2rzshfl3lj2dHVFiIlVfcMRc3wDEhxrM="
         }
       ]
     },
     {
-      "Route": "css/site.dxn50f58z1.css",
-      "AssetFile": "C:\\Users\\LENOVO\\Desktop\\reviel\\wwwroot\\css\\site.css",
+      "Route": "css/site.648yyhfue6.css.gz",
+      "AssetFile": "C:\\Users\\LENOVO\\Desktop\\reviel\\obj\\Debug\\net9.0\\compressed\\lt3xj0gw2e-648yyhfue6.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8426,7 +8334,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3739"
+          "Value": "1033"
         },
         {
           "Name": "Content-Type",
@@ -8434,56 +8342,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"nwuYz5T9Vk/58l0ejMhq+EjNbkfDg6Ve8zKOLIhKpvM=\""
+          "Value": "\"eYVfvv2MSLawAwbqEiGKodFmojAvZ0zV8f9qid+baAg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 18:02:49 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "dxn50f58z1"
-        },
-        {
-          "Name": "label",
-          "Value": "css/site.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-nwuYz5T9Vk/58l0ejMhq+EjNbkfDg6Ve8zKOLIhKpvM="
-        }
-      ]
-    },
-    {
-      "Route": "css/site.dxn50f58z1.css.gz",
-      "AssetFile": "C:\\Users\\LENOVO\\Desktop\\reviel\\obj\\Debug\\net9.0\\compressed\\lt3xj0gw2e-dxn50f58z1.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1553"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"c7EHKRbcb7pkTJWBTdUiAl3W9m1eVg9LTPyDpWROosw=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 18:02:49 GMT"
+          "Value": "Wed, 21 May 2025 17:27:55 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8501,7 +8364,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "dxn50f58z1"
+          "Value": "648yyhfue6"
         },
         {
           "Name": "label",
@@ -8509,7 +8372,144 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-c7EHKRbcb7pkTJWBTdUiAl3W9m1eVg9LTPyDpWROosw="
+          "Value": "sha256-eYVfvv2MSLawAwbqEiGKodFmojAvZ0zV8f9qid+baAg="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.css",
+      "AssetFile": "C:\\Users\\LENOVO\\Desktop\\reviel\\obj\\Debug\\net9.0\\compressed\\lt3xj0gw2e-648yyhfue6.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000967117988"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1033"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eYVfvv2MSLawAwbqEiGKodFmojAvZ0zV8f9qid+baAg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 17:27:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"lhMIf7NxOEx2rzshfl3lj2dHVFiIlVfcMRc3wDEhxrM=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-lhMIf7NxOEx2rzshfl3lj2dHVFiIlVfcMRc3wDEhxrM="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.css",
+      "AssetFile": "C:\\Users\\LENOVO\\Desktop\\reviel\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2646"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lhMIf7NxOEx2rzshfl3lj2dHVFiIlVfcMRc3wDEhxrM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 17:27:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-lhMIf7NxOEx2rzshfl3lj2dHVFiIlVfcMRc3wDEhxrM="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.css.gz",
+      "AssetFile": "C:\\Users\\LENOVO\\Desktop\\reviel\\obj\\Debug\\net9.0\\compressed\\lt3xj0gw2e-648yyhfue6.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1033"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eYVfvv2MSLawAwbqEiGKodFmojAvZ0zV8f9qid+baAg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 17:27:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-eYVfvv2MSLawAwbqEiGKodFmojAvZ0zV8f9qid+baAg="
         }
       ]
     },
@@ -18379,13 +18379,13 @@
       ]
     },
     {
-      "Route": "js/before-after.hibqhfqo10.js",
-      "AssetFile": "C:\\Users\\LENOVO\\Desktop\\reviel\\obj\\Debug\\net9.0\\compressed\\mz2t8ygwot-hibqhfqo10.gz",
+      "Route": "js/before-after.0znp0rm6ix.js",
+      "AssetFile": "C:\\Users\\LENOVO\\Desktop\\reviel\\obj\\Debug\\net9.0\\compressed\\mz2t8ygwot-0znp0rm6ix.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000999000999"
+          "Quality": "0.000957854406"
         }
       ],
       "ResponseHeaders": [
@@ -18395,15 +18395,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1000"
+          "Value": "1043"
         },
         {
           "Name": "ETag",
-          "Value": "\"ntn7OUSizmG/de1Tkzb0I6FdsQQnwJhuh6JeAsRps/E=\""
+          "Value": "\"avJY/Fo74lvYK1H7M+Nr3dD+F486IG9N0ZLYVu6q45I=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 19 May 2025 16:08:28 GMT"
+          "Value": "Tue, 20 May 2025 18:05:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -18423,13 +18423,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"N1ZLbU0/bmfgSumOi8TXL1EfG3bEt5CZUWSdVUaBuW4=\""
+          "Value": "W/\"nHGImK4Q1g84/W1xQt+oynaPe4I/u3zT5XHJzAd2pLQ=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "hibqhfqo10"
+          "Value": "0znp0rm6ix"
         },
         {
           "Name": "label",
@@ -18437,12 +18437,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-N1ZLbU0/bmfgSumOi8TXL1EfG3bEt5CZUWSdVUaBuW4="
+          "Value": "sha256-nHGImK4Q1g84/W1xQt+oynaPe4I/u3zT5XHJzAd2pLQ="
         }
       ]
     },
     {
-      "Route": "js/before-after.hibqhfqo10.js",
+      "Route": "js/before-after.0znp0rm6ix.js",
       "AssetFile": "C:\\Users\\LENOVO\\Desktop\\reviel\\wwwroot\\js\\before-after.js",
       "Selectors": [],
       "ResponseHeaders": [
@@ -18452,7 +18452,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3005"
+          "Value": "3078"
         },
         {
           "Name": "Content-Type",
@@ -18460,11 +18460,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"N1ZLbU0/bmfgSumOi8TXL1EfG3bEt5CZUWSdVUaBuW4=\""
+          "Value": "\"nHGImK4Q1g84/W1xQt+oynaPe4I/u3zT5XHJzAd2pLQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 19 May 2025 16:08:28 GMT"
+          "Value": "Tue, 20 May 2025 18:05:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -18474,7 +18474,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "hibqhfqo10"
+          "Value": "0znp0rm6ix"
         },
         {
           "Name": "label",
@@ -18482,13 +18482,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-N1ZLbU0/bmfgSumOi8TXL1EfG3bEt5CZUWSdVUaBuW4="
+          "Value": "sha256-nHGImK4Q1g84/W1xQt+oynaPe4I/u3zT5XHJzAd2pLQ="
         }
       ]
     },
     {
-      "Route": "js/before-after.hibqhfqo10.js.gz",
-      "AssetFile": "C:\\Users\\LENOVO\\Desktop\\reviel\\obj\\Debug\\net9.0\\compressed\\mz2t8ygwot-hibqhfqo10.gz",
+      "Route": "js/before-after.0znp0rm6ix.js.gz",
+      "AssetFile": "C:\\Users\\LENOVO\\Desktop\\reviel\\obj\\Debug\\net9.0\\compressed\\mz2t8ygwot-0znp0rm6ix.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -18497,7 +18497,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1000"
+          "Value": "1043"
         },
         {
           "Name": "Content-Type",
@@ -18505,11 +18505,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ntn7OUSizmG/de1Tkzb0I6FdsQQnwJhuh6JeAsRps/E=\""
+          "Value": "\"avJY/Fo74lvYK1H7M+Nr3dD+F486IG9N0ZLYVu6q45I=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 19 May 2025 16:08:28 GMT"
+          "Value": "Tue, 20 May 2025 18:05:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -18527,7 +18527,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "hibqhfqo10"
+          "Value": "0znp0rm6ix"
         },
         {
           "Name": "label",
@@ -18535,18 +18535,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-ntn7OUSizmG/de1Tkzb0I6FdsQQnwJhuh6JeAsRps/E="
+          "Value": "sha256-avJY/Fo74lvYK1H7M+Nr3dD+F486IG9N0ZLYVu6q45I="
         }
       ]
     },
     {
       "Route": "js/before-after.js",
-      "AssetFile": "C:\\Users\\LENOVO\\Desktop\\reviel\\obj\\Debug\\net9.0\\compressed\\mz2t8ygwot-hibqhfqo10.gz",
+      "AssetFile": "C:\\Users\\LENOVO\\Desktop\\reviel\\obj\\Debug\\net9.0\\compressed\\mz2t8ygwot-0znp0rm6ix.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000999000999"
+          "Quality": "0.000957854406"
         }
       ],
       "ResponseHeaders": [
@@ -18556,15 +18556,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1000"
+          "Value": "1043"
         },
         {
           "Name": "ETag",
-          "Value": "\"ntn7OUSizmG/de1Tkzb0I6FdsQQnwJhuh6JeAsRps/E=\""
+          "Value": "\"avJY/Fo74lvYK1H7M+Nr3dD+F486IG9N0ZLYVu6q45I=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 19 May 2025 16:08:28 GMT"
+          "Value": "Tue, 20 May 2025 18:05:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -18584,13 +18584,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"N1ZLbU0/bmfgSumOi8TXL1EfG3bEt5CZUWSdVUaBuW4=\""
+          "Value": "W/\"nHGImK4Q1g84/W1xQt+oynaPe4I/u3zT5XHJzAd2pLQ=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-N1ZLbU0/bmfgSumOi8TXL1EfG3bEt5CZUWSdVUaBuW4="
+          "Value": "sha256-nHGImK4Q1g84/W1xQt+oynaPe4I/u3zT5XHJzAd2pLQ="
         }
       ]
     },
@@ -18605,7 +18605,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3005"
+          "Value": "3078"
         },
         {
           "Name": "Content-Type",
@@ -18613,11 +18613,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"N1ZLbU0/bmfgSumOi8TXL1EfG3bEt5CZUWSdVUaBuW4=\""
+          "Value": "\"nHGImK4Q1g84/W1xQt+oynaPe4I/u3zT5XHJzAd2pLQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 19 May 2025 16:08:28 GMT"
+          "Value": "Tue, 20 May 2025 18:05:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -18627,13 +18627,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-N1ZLbU0/bmfgSumOi8TXL1EfG3bEt5CZUWSdVUaBuW4="
+          "Value": "sha256-nHGImK4Q1g84/W1xQt+oynaPe4I/u3zT5XHJzAd2pLQ="
         }
       ]
     },
     {
       "Route": "js/before-after.js.gz",
-      "AssetFile": "C:\\Users\\LENOVO\\Desktop\\reviel\\obj\\Debug\\net9.0\\compressed\\mz2t8ygwot-hibqhfqo10.gz",
+      "AssetFile": "C:\\Users\\LENOVO\\Desktop\\reviel\\obj\\Debug\\net9.0\\compressed\\mz2t8ygwot-0znp0rm6ix.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -18642,7 +18642,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1000"
+          "Value": "1043"
         },
         {
           "Name": "Content-Type",
@@ -18650,11 +18650,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ntn7OUSizmG/de1Tkzb0I6FdsQQnwJhuh6JeAsRps/E=\""
+          "Value": "\"avJY/Fo74lvYK1H7M+Nr3dD+F486IG9N0ZLYVu6q45I=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 19 May 2025 16:08:28 GMT"
+          "Value": "Tue, 20 May 2025 18:05:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -18672,18 +18672,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-ntn7OUSizmG/de1Tkzb0I6FdsQQnwJhuh6JeAsRps/E="
+          "Value": "sha256-avJY/Fo74lvYK1H7M+Nr3dD+F486IG9N0ZLYVu6q45I="
         }
       ]
     },
     {
-      "Route": "js/contact.2tvhvhfp2n.js",
-      "AssetFile": "C:\\Users\\LENOVO\\Desktop\\reviel\\obj\\Debug\\net9.0\\compressed\\ojrbexqr47-2tvhvhfp2n.gz",
+      "Route": "js/contact.189w4g114r.js",
+      "AssetFile": "C:\\Users\\LENOVO\\Desktop\\reviel\\obj\\Debug\\net9.0\\compressed\\ojrbexqr47-189w4g114r.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000851063830"
+          "Quality": "0.001078748652"
         }
       ],
       "ResponseHeaders": [
@@ -18693,15 +18693,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1174"
+          "Value": "926"
         },
         {
           "Name": "ETag",
-          "Value": "\"1aOZRAz+mqsZFjhOfzsx7LPm/lDXSPmynHa9P+4DNdI=\""
+          "Value": "\"K2l4wBHKbp2uh1cW5lq6LG8smnP8SGmKJq6X7mKDJ7g=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 19 May 2025 11:46:02 GMT"
+          "Value": "Tue, 20 May 2025 18:08:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -18721,13 +18721,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"urHf+tEJlUKAiZm7YfdJlRrEbtH6KVNTSrkQyfQd7xo=\""
+          "Value": "W/\"T/XqWV9IZka1sYrAnUVFwVOn2MDxpWOFyH0jvhvwW/k=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "2tvhvhfp2n"
+          "Value": "189w4g114r"
         },
         {
           "Name": "label",
@@ -18735,12 +18735,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-urHf+tEJlUKAiZm7YfdJlRrEbtH6KVNTSrkQyfQd7xo="
+          "Value": "sha256-T/XqWV9IZka1sYrAnUVFwVOn2MDxpWOFyH0jvhvwW/k="
         }
       ]
     },
     {
-      "Route": "js/contact.2tvhvhfp2n.js",
+      "Route": "js/contact.189w4g114r.js",
       "AssetFile": "C:\\Users\\LENOVO\\Desktop\\reviel\\wwwroot\\js\\contact.js",
       "Selectors": [],
       "ResponseHeaders": [
@@ -18750,7 +18750,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3961"
+          "Value": "3090"
         },
         {
           "Name": "Content-Type",
@@ -18758,11 +18758,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"urHf+tEJlUKAiZm7YfdJlRrEbtH6KVNTSrkQyfQd7xo=\""
+          "Value": "\"T/XqWV9IZka1sYrAnUVFwVOn2MDxpWOFyH0jvhvwW/k=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 19 May 2025 11:46:02 GMT"
+          "Value": "Tue, 20 May 2025 18:08:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -18772,7 +18772,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "2tvhvhfp2n"
+          "Value": "189w4g114r"
         },
         {
           "Name": "label",
@@ -18780,13 +18780,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-urHf+tEJlUKAiZm7YfdJlRrEbtH6KVNTSrkQyfQd7xo="
+          "Value": "sha256-T/XqWV9IZka1sYrAnUVFwVOn2MDxpWOFyH0jvhvwW/k="
         }
       ]
     },
     {
-      "Route": "js/contact.2tvhvhfp2n.js.gz",
-      "AssetFile": "C:\\Users\\LENOVO\\Desktop\\reviel\\obj\\Debug\\net9.0\\compressed\\ojrbexqr47-2tvhvhfp2n.gz",
+      "Route": "js/contact.189w4g114r.js.gz",
+      "AssetFile": "C:\\Users\\LENOVO\\Desktop\\reviel\\obj\\Debug\\net9.0\\compressed\\ojrbexqr47-189w4g114r.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -18795,7 +18795,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1174"
+          "Value": "926"
         },
         {
           "Name": "Content-Type",
@@ -18803,11 +18803,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"1aOZRAz+mqsZFjhOfzsx7LPm/lDXSPmynHa9P+4DNdI=\""
+          "Value": "\"K2l4wBHKbp2uh1cW5lq6LG8smnP8SGmKJq6X7mKDJ7g=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 19 May 2025 11:46:02 GMT"
+          "Value": "Tue, 20 May 2025 18:08:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -18825,7 +18825,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "2tvhvhfp2n"
+          "Value": "189w4g114r"
         },
         {
           "Name": "label",
@@ -18833,18 +18833,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-1aOZRAz+mqsZFjhOfzsx7LPm/lDXSPmynHa9P+4DNdI="
+          "Value": "sha256-K2l4wBHKbp2uh1cW5lq6LG8smnP8SGmKJq6X7mKDJ7g="
         }
       ]
     },
     {
       "Route": "js/contact.js",
-      "AssetFile": "C:\\Users\\LENOVO\\Desktop\\reviel\\obj\\Debug\\net9.0\\compressed\\ojrbexqr47-2tvhvhfp2n.gz",
+      "AssetFile": "C:\\Users\\LENOVO\\Desktop\\reviel\\obj\\Debug\\net9.0\\compressed\\ojrbexqr47-189w4g114r.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000851063830"
+          "Quality": "0.001078748652"
         }
       ],
       "ResponseHeaders": [
@@ -18854,15 +18854,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1174"
+          "Value": "926"
         },
         {
           "Name": "ETag",
-          "Value": "\"1aOZRAz+mqsZFjhOfzsx7LPm/lDXSPmynHa9P+4DNdI=\""
+          "Value": "\"K2l4wBHKbp2uh1cW5lq6LG8smnP8SGmKJq6X7mKDJ7g=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 19 May 2025 11:46:02 GMT"
+          "Value": "Tue, 20 May 2025 18:08:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -18882,13 +18882,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"urHf+tEJlUKAiZm7YfdJlRrEbtH6KVNTSrkQyfQd7xo=\""
+          "Value": "W/\"T/XqWV9IZka1sYrAnUVFwVOn2MDxpWOFyH0jvhvwW/k=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-urHf+tEJlUKAiZm7YfdJlRrEbtH6KVNTSrkQyfQd7xo="
+          "Value": "sha256-T/XqWV9IZka1sYrAnUVFwVOn2MDxpWOFyH0jvhvwW/k="
         }
       ]
     },
@@ -18903,7 +18903,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3961"
+          "Value": "3090"
         },
         {
           "Name": "Content-Type",
@@ -18911,11 +18911,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"urHf+tEJlUKAiZm7YfdJlRrEbtH6KVNTSrkQyfQd7xo=\""
+          "Value": "\"T/XqWV9IZka1sYrAnUVFwVOn2MDxpWOFyH0jvhvwW/k=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 19 May 2025 11:46:02 GMT"
+          "Value": "Tue, 20 May 2025 18:08:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -18925,13 +18925,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-urHf+tEJlUKAiZm7YfdJlRrEbtH6KVNTSrkQyfQd7xo="
+          "Value": "sha256-T/XqWV9IZka1sYrAnUVFwVOn2MDxpWOFyH0jvhvwW/k="
         }
       ]
     },
     {
       "Route": "js/contact.js.gz",
-      "AssetFile": "C:\\Users\\LENOVO\\Desktop\\reviel\\obj\\Debug\\net9.0\\compressed\\ojrbexqr47-2tvhvhfp2n.gz",
+      "AssetFile": "C:\\Users\\LENOVO\\Desktop\\reviel\\obj\\Debug\\net9.0\\compressed\\ojrbexqr47-189w4g114r.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -18940,7 +18940,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1174"
+          "Value": "926"
         },
         {
           "Name": "Content-Type",
@@ -18948,11 +18948,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"1aOZRAz+mqsZFjhOfzsx7LPm/lDXSPmynHa9P+4DNdI=\""
+          "Value": "\"K2l4wBHKbp2uh1cW5lq6LG8smnP8SGmKJq6X7mKDJ7g=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 19 May 2025 11:46:02 GMT"
+          "Value": "Tue, 20 May 2025 18:08:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -18970,18 +18970,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-1aOZRAz+mqsZFjhOfzsx7LPm/lDXSPmynHa9P+4DNdI="
+          "Value": "sha256-K2l4wBHKbp2uh1cW5lq6LG8smnP8SGmKJq6X7mKDJ7g="
         }
       ]
     },
     {
-      "Route": "js/index.js",
-      "AssetFile": "C:\\Users\\LENOVO\\Desktop\\reviel\\obj\\Debug\\net9.0\\compressed\\cm9qp8bto5-uhlu0dn8n4.gz",
+      "Route": "js/index.gm0ekedanf.js",
+      "AssetFile": "C:\\Users\\LENOVO\\Desktop\\reviel\\obj\\Debug\\net9.0\\compressed\\cm9qp8bto5-gm0ekedanf.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000732600733"
+          "Quality": "0.000742390497"
         }
       ],
       "ResponseHeaders": [
@@ -18991,19 +18991,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1364"
+          "Value": "1346"
         },
         {
           "Name": "ETag",
-          "Value": "\"YgwNUW0AorahrmpXrKg5P82wu68egsx/EeIPJg4FxIw=\""
+          "Value": "\"pKiRCuW+lt3Afak1XqzZLvF9K0GIAuBES12nDXmDVWk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 19 May 2025 15:29:31 GMT"
+          "Value": "Tue, 20 May 2025 18:09:24 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "no-cache"
+          "Value": "max-age=31536000, immutable"
         },
         {
           "Name": "Content-Encoding",
@@ -19019,18 +19019,26 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"UowTvIIfBfBZJ4A5SGbQlB4+ijITBMh37fVVgXvTeXY=\""
+          "Value": "W/\"WCm7Khl7M3vBL98zRV/MRYuHVokmHVoLIL2OZ3/AnFs=\""
         }
       ],
       "EndpointProperties": [
         {
+          "Name": "fingerprint",
+          "Value": "gm0ekedanf"
+        },
+        {
+          "Name": "label",
+          "Value": "js/index.js"
+        },
+        {
           "Name": "integrity",
-          "Value": "sha256-UowTvIIfBfBZJ4A5SGbQlB4+ijITBMh37fVVgXvTeXY="
+          "Value": "sha256-WCm7Khl7M3vBL98zRV/MRYuHVokmHVoLIL2OZ3/AnFs="
         }
       ]
     },
     {
-      "Route": "js/index.js",
+      "Route": "js/index.gm0ekedanf.js",
       "AssetFile": "C:\\Users\\LENOVO\\Desktop\\reviel\\wwwroot\\js\\index.js",
       "Selectors": [],
       "ResponseHeaders": [
@@ -19040,7 +19048,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3913"
+          "Value": "3869"
         },
         {
           "Name": "Content-Type",
@@ -19048,121 +19056,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"UowTvIIfBfBZJ4A5SGbQlB4+ijITBMh37fVVgXvTeXY=\""
+          "Value": "\"WCm7Khl7M3vBL98zRV/MRYuHVokmHVoLIL2OZ3/AnFs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 19 May 2025 15:29:31 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-UowTvIIfBfBZJ4A5SGbQlB4+ijITBMh37fVVgXvTeXY="
-        }
-      ]
-    },
-    {
-      "Route": "js/index.js.gz",
-      "AssetFile": "C:\\Users\\LENOVO\\Desktop\\reviel\\obj\\Debug\\net9.0\\compressed\\cm9qp8bto5-uhlu0dn8n4.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1364"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"YgwNUW0AorahrmpXrKg5P82wu68egsx/EeIPJg4FxIw=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 19 May 2025 15:29:31 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-YgwNUW0AorahrmpXrKg5P82wu68egsx/EeIPJg4FxIw="
-        }
-      ]
-    },
-    {
-      "Route": "js/index.uhlu0dn8n4.js",
-      "AssetFile": "C:\\Users\\LENOVO\\Desktop\\reviel\\obj\\Debug\\net9.0\\compressed\\cm9qp8bto5-uhlu0dn8n4.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000732600733"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1364"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"YgwNUW0AorahrmpXrKg5P82wu68egsx/EeIPJg4FxIw=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 19 May 2025 15:29:31 GMT"
+          "Value": "Tue, 20 May 2025 18:09:24 GMT"
         },
         {
           "Name": "Cache-Control",
           "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"UowTvIIfBfBZJ4A5SGbQlB4+ijITBMh37fVVgXvTeXY=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "uhlu0dn8n4"
+          "Value": "gm0ekedanf"
         },
         {
           "Name": "label",
@@ -19170,13 +19078,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-UowTvIIfBfBZJ4A5SGbQlB4+ijITBMh37fVVgXvTeXY="
+          "Value": "sha256-WCm7Khl7M3vBL98zRV/MRYuHVokmHVoLIL2OZ3/AnFs="
         }
       ]
     },
     {
-      "Route": "js/index.uhlu0dn8n4.js",
-      "AssetFile": "C:\\Users\\LENOVO\\Desktop\\reviel\\wwwroot\\js\\index.js",
+      "Route": "js/index.gm0ekedanf.js.gz",
+      "AssetFile": "C:\\Users\\LENOVO\\Desktop\\reviel\\obj\\Debug\\net9.0\\compressed\\cm9qp8bto5-gm0ekedanf.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -19185,7 +19093,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3913"
+          "Value": "1346"
         },
         {
           "Name": "Content-Type",
@@ -19193,56 +19101,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"UowTvIIfBfBZJ4A5SGbQlB4+ijITBMh37fVVgXvTeXY=\""
+          "Value": "\"pKiRCuW+lt3Afak1XqzZLvF9K0GIAuBES12nDXmDVWk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 19 May 2025 15:29:31 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "uhlu0dn8n4"
-        },
-        {
-          "Name": "label",
-          "Value": "js/index.js"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-UowTvIIfBfBZJ4A5SGbQlB4+ijITBMh37fVVgXvTeXY="
-        }
-      ]
-    },
-    {
-      "Route": "js/index.uhlu0dn8n4.js.gz",
-      "AssetFile": "C:\\Users\\LENOVO\\Desktop\\reviel\\obj\\Debug\\net9.0\\compressed\\cm9qp8bto5-uhlu0dn8n4.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1364"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"YgwNUW0AorahrmpXrKg5P82wu68egsx/EeIPJg4FxIw=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 19 May 2025 15:29:31 GMT"
+          "Value": "Tue, 20 May 2025 18:09:24 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -19260,7 +19123,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "uhlu0dn8n4"
+          "Value": "gm0ekedanf"
         },
         {
           "Name": "label",
@@ -19268,18 +19131,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-YgwNUW0AorahrmpXrKg5P82wu68egsx/EeIPJg4FxIw="
+          "Value": "sha256-pKiRCuW+lt3Afak1XqzZLvF9K0GIAuBES12nDXmDVWk="
         }
       ]
     },
     {
-      "Route": "js/site.3kc9cgftui.js",
-      "AssetFile": "C:\\Users\\LENOVO\\Desktop\\reviel\\obj\\Debug\\net9.0\\compressed\\l987bl7y0y-3kc9cgftui.gz",
+      "Route": "js/index.js",
+      "AssetFile": "C:\\Users\\LENOVO\\Desktop\\reviel\\obj\\Debug\\net9.0\\compressed\\cm9qp8bto5-gm0ekedanf.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001908396947"
+          "Quality": "0.000742390497"
         }
       ],
       "ResponseHeaders": [
@@ -19289,15 +19152,152 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "523"
+          "Value": "1346"
         },
         {
           "Name": "ETag",
-          "Value": "\"zcCGyO01no2vTEU25rpNQC7uyWXjI4hr3MhT4rzBO5g=\""
+          "Value": "\"pKiRCuW+lt3Afak1XqzZLvF9K0GIAuBES12nDXmDVWk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 18:02:49 GMT"
+          "Value": "Tue, 20 May 2025 18:09:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"WCm7Khl7M3vBL98zRV/MRYuHVokmHVoLIL2OZ3/AnFs=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-WCm7Khl7M3vBL98zRV/MRYuHVokmHVoLIL2OZ3/AnFs="
+        }
+      ]
+    },
+    {
+      "Route": "js/index.js",
+      "AssetFile": "C:\\Users\\LENOVO\\Desktop\\reviel\\wwwroot\\js\\index.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3869"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WCm7Khl7M3vBL98zRV/MRYuHVokmHVoLIL2OZ3/AnFs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 20 May 2025 18:09:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-WCm7Khl7M3vBL98zRV/MRYuHVokmHVoLIL2OZ3/AnFs="
+        }
+      ]
+    },
+    {
+      "Route": "js/index.js.gz",
+      "AssetFile": "C:\\Users\\LENOVO\\Desktop\\reviel\\obj\\Debug\\net9.0\\compressed\\cm9qp8bto5-gm0ekedanf.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1346"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pKiRCuW+lt3Afak1XqzZLvF9K0GIAuBES12nDXmDVWk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 20 May 2025 18:09:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-pKiRCuW+lt3Afak1XqzZLvF9K0GIAuBES12nDXmDVWk="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.a4yd9m0dlz.js",
+      "AssetFile": "C:\\Users\\LENOVO\\Desktop\\reviel\\obj\\Debug\\net9.0\\compressed\\l987bl7y0y-a4yd9m0dlz.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001782531194"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "560"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zDQ0Gwre8cAKrPyQrSiHC9vuIaiDWEpHPGEvHU1KdjE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 20 May 2025 18:10:28 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -19317,13 +19317,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"06NZMUarFIdG/BCASUh73arJ1En7aTlxKHzUiQe9+ws=\""
+          "Value": "W/\"BhG7EQj8axDdeXAboJY6GOUiKIGAI7IzRFgRBInQ3is=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "3kc9cgftui"
+          "Value": "a4yd9m0dlz"
         },
         {
           "Name": "label",
@@ -19331,12 +19331,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-06NZMUarFIdG/BCASUh73arJ1En7aTlxKHzUiQe9+ws="
+          "Value": "sha256-BhG7EQj8axDdeXAboJY6GOUiKIGAI7IzRFgRBInQ3is="
         }
       ]
     },
     {
-      "Route": "js/site.3kc9cgftui.js",
+      "Route": "js/site.a4yd9m0dlz.js",
       "AssetFile": "C:\\Users\\LENOVO\\Desktop\\reviel\\wwwroot\\js\\site.js",
       "Selectors": [],
       "ResponseHeaders": [
@@ -19346,7 +19346,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1134"
+          "Value": "1199"
         },
         {
           "Name": "Content-Type",
@@ -19354,11 +19354,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"06NZMUarFIdG/BCASUh73arJ1En7aTlxKHzUiQe9+ws=\""
+          "Value": "\"BhG7EQj8axDdeXAboJY6GOUiKIGAI7IzRFgRBInQ3is=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 18:02:49 GMT"
+          "Value": "Tue, 20 May 2025 18:10:28 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -19368,7 +19368,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "3kc9cgftui"
+          "Value": "a4yd9m0dlz"
         },
         {
           "Name": "label",
@@ -19376,13 +19376,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-06NZMUarFIdG/BCASUh73arJ1En7aTlxKHzUiQe9+ws="
+          "Value": "sha256-BhG7EQj8axDdeXAboJY6GOUiKIGAI7IzRFgRBInQ3is="
         }
       ]
     },
     {
-      "Route": "js/site.3kc9cgftui.js.gz",
-      "AssetFile": "C:\\Users\\LENOVO\\Desktop\\reviel\\obj\\Debug\\net9.0\\compressed\\l987bl7y0y-3kc9cgftui.gz",
+      "Route": "js/site.a4yd9m0dlz.js.gz",
+      "AssetFile": "C:\\Users\\LENOVO\\Desktop\\reviel\\obj\\Debug\\net9.0\\compressed\\l987bl7y0y-a4yd9m0dlz.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -19391,7 +19391,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "523"
+          "Value": "560"
         },
         {
           "Name": "Content-Type",
@@ -19399,11 +19399,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"zcCGyO01no2vTEU25rpNQC7uyWXjI4hr3MhT4rzBO5g=\""
+          "Value": "\"zDQ0Gwre8cAKrPyQrSiHC9vuIaiDWEpHPGEvHU1KdjE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 18:02:49 GMT"
+          "Value": "Tue, 20 May 2025 18:10:28 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -19421,7 +19421,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "3kc9cgftui"
+          "Value": "a4yd9m0dlz"
         },
         {
           "Name": "label",
@@ -19429,18 +19429,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-zcCGyO01no2vTEU25rpNQC7uyWXjI4hr3MhT4rzBO5g="
+          "Value": "sha256-zDQ0Gwre8cAKrPyQrSiHC9vuIaiDWEpHPGEvHU1KdjE="
         }
       ]
     },
     {
       "Route": "js/site.js",
-      "AssetFile": "C:\\Users\\LENOVO\\Desktop\\reviel\\obj\\Debug\\net9.0\\compressed\\l987bl7y0y-3kc9cgftui.gz",
+      "AssetFile": "C:\\Users\\LENOVO\\Desktop\\reviel\\obj\\Debug\\net9.0\\compressed\\l987bl7y0y-a4yd9m0dlz.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001908396947"
+          "Quality": "0.001782531194"
         }
       ],
       "ResponseHeaders": [
@@ -19450,15 +19450,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "523"
+          "Value": "560"
         },
         {
           "Name": "ETag",
-          "Value": "\"zcCGyO01no2vTEU25rpNQC7uyWXjI4hr3MhT4rzBO5g=\""
+          "Value": "\"zDQ0Gwre8cAKrPyQrSiHC9vuIaiDWEpHPGEvHU1KdjE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 18:02:49 GMT"
+          "Value": "Tue, 20 May 2025 18:10:28 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -19478,13 +19478,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"06NZMUarFIdG/BCASUh73arJ1En7aTlxKHzUiQe9+ws=\""
+          "Value": "W/\"BhG7EQj8axDdeXAboJY6GOUiKIGAI7IzRFgRBInQ3is=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-06NZMUarFIdG/BCASUh73arJ1En7aTlxKHzUiQe9+ws="
+          "Value": "sha256-BhG7EQj8axDdeXAboJY6GOUiKIGAI7IzRFgRBInQ3is="
         }
       ]
     },
@@ -19499,7 +19499,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1134"
+          "Value": "1199"
         },
         {
           "Name": "Content-Type",
@@ -19507,11 +19507,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"06NZMUarFIdG/BCASUh73arJ1En7aTlxKHzUiQe9+ws=\""
+          "Value": "\"BhG7EQj8axDdeXAboJY6GOUiKIGAI7IzRFgRBInQ3is=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 18:02:49 GMT"
+          "Value": "Tue, 20 May 2025 18:10:28 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -19521,13 +19521,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-06NZMUarFIdG/BCASUh73arJ1En7aTlxKHzUiQe9+ws="
+          "Value": "sha256-BhG7EQj8axDdeXAboJY6GOUiKIGAI7IzRFgRBInQ3is="
         }
       ]
     },
     {
       "Route": "js/site.js.gz",
-      "AssetFile": "C:\\Users\\LENOVO\\Desktop\\reviel\\obj\\Debug\\net9.0\\compressed\\l987bl7y0y-3kc9cgftui.gz",
+      "AssetFile": "C:\\Users\\LENOVO\\Desktop\\reviel\\obj\\Debug\\net9.0\\compressed\\l987bl7y0y-a4yd9m0dlz.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -19536,7 +19536,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "523"
+          "Value": "560"
         },
         {
           "Name": "Content-Type",
@@ -19544,11 +19544,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"zcCGyO01no2vTEU25rpNQC7uyWXjI4hr3MhT4rzBO5g=\""
+          "Value": "\"zDQ0Gwre8cAKrPyQrSiHC9vuIaiDWEpHPGEvHU1KdjE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 18:02:49 GMT"
+          "Value": "Tue, 20 May 2025 18:10:28 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -19566,7 +19566,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-zcCGyO01no2vTEU25rpNQC7uyWXjI4hr3MhT4rzBO5g="
+          "Value": "sha256-zDQ0Gwre8cAKrPyQrSiHC9vuIaiDWEpHPGEvHU1KdjE="
         }
       ]
     },
@@ -37728,12 +37728,12 @@
     },
     {
       "Route": "reviel.bundle.scp.css",
-      "AssetFile": "C:\\Users\\LENOVO\\Desktop\\reviel\\obj\\Debug\\net9.0\\compressed\\h1kg0bplyx-crgc1zp8xp.gz",
+      "AssetFile": "C:\\Users\\LENOVO\\Desktop\\reviel\\obj\\Debug\\net9.0\\compressed\\h1kg0bplyx-htjkat6rbj.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001862197393"
+          "Quality": "0.002375296912"
         }
       ],
       "ResponseHeaders": [
@@ -37743,15 +37743,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "536"
+          "Value": "420"
         },
         {
           "Name": "ETag",
-          "Value": "\"TqeQNEtlkjGky/JJqjn6GBikRtxrPfNSXoYbQs5km90=\""
+          "Value": "\"6RsgLghLDGf10aRkvtiXkZ73PS71WV/emU7YTNSqn7I=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 18 May 2025 12:52:25 GMT"
+          "Value": "Wed, 21 May 2025 17:28:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -37771,13 +37771,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"KIO5zNP2AI/47DsMjiDLTEi1WDkyq4+xbBL376q3dFE=\""
+          "Value": "W/\"q2B6wreJtPzFJDcF8XMRIwyVh/k/ZShxwhmAQ6fTkTE=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-KIO5zNP2AI/47DsMjiDLTEi1WDkyq4+xbBL376q3dFE="
+          "Value": "sha256-q2B6wreJtPzFJDcF8XMRIwyVh/k/ZShxwhmAQ6fTkTE="
         }
       ]
     },
@@ -37792,7 +37792,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1124"
+          "Value": "932"
         },
         {
           "Name": "Content-Type",
@@ -37800,11 +37800,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"KIO5zNP2AI/47DsMjiDLTEi1WDkyq4+xbBL376q3dFE=\""
+          "Value": "\"q2B6wreJtPzFJDcF8XMRIwyVh/k/ZShxwhmAQ6fTkTE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 18 May 2025 12:52:25 GMT"
+          "Value": "Wed, 21 May 2025 17:28:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -37814,13 +37814,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-KIO5zNP2AI/47DsMjiDLTEi1WDkyq4+xbBL376q3dFE="
+          "Value": "sha256-q2B6wreJtPzFJDcF8XMRIwyVh/k/ZShxwhmAQ6fTkTE="
         }
       ]
     },
     {
       "Route": "reviel.bundle.scp.css.gz",
-      "AssetFile": "C:\\Users\\LENOVO\\Desktop\\reviel\\obj\\Debug\\net9.0\\compressed\\h1kg0bplyx-crgc1zp8xp.gz",
+      "AssetFile": "C:\\Users\\LENOVO\\Desktop\\reviel\\obj\\Debug\\net9.0\\compressed\\h1kg0bplyx-htjkat6rbj.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -37829,7 +37829,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "536"
+          "Value": "420"
         },
         {
           "Name": "Content-Type",
@@ -37837,11 +37837,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"TqeQNEtlkjGky/JJqjn6GBikRtxrPfNSXoYbQs5km90=\""
+          "Value": "\"6RsgLghLDGf10aRkvtiXkZ73PS71WV/emU7YTNSqn7I=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 18 May 2025 12:52:25 GMT"
+          "Value": "Wed, 21 May 2025 17:28:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -37859,18 +37859,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-TqeQNEtlkjGky/JJqjn6GBikRtxrPfNSXoYbQs5km90="
+          "Value": "sha256-6RsgLghLDGf10aRkvtiXkZ73PS71WV/emU7YTNSqn7I="
         }
       ]
     },
     {
-      "Route": "reviel.crgc1zp8xp.bundle.scp.css",
-      "AssetFile": "C:\\Users\\LENOVO\\Desktop\\reviel\\obj\\Debug\\net9.0\\compressed\\h1kg0bplyx-crgc1zp8xp.gz",
+      "Route": "reviel.htjkat6rbj.bundle.scp.css",
+      "AssetFile": "C:\\Users\\LENOVO\\Desktop\\reviel\\obj\\Debug\\net9.0\\compressed\\h1kg0bplyx-htjkat6rbj.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001862197393"
+          "Quality": "0.002375296912"
         }
       ],
       "ResponseHeaders": [
@@ -37880,15 +37880,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "536"
+          "Value": "420"
         },
         {
           "Name": "ETag",
-          "Value": "\"TqeQNEtlkjGky/JJqjn6GBikRtxrPfNSXoYbQs5km90=\""
+          "Value": "\"6RsgLghLDGf10aRkvtiXkZ73PS71WV/emU7YTNSqn7I=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 18 May 2025 12:52:25 GMT"
+          "Value": "Wed, 21 May 2025 17:28:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -37908,13 +37908,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"KIO5zNP2AI/47DsMjiDLTEi1WDkyq4+xbBL376q3dFE=\""
+          "Value": "W/\"q2B6wreJtPzFJDcF8XMRIwyVh/k/ZShxwhmAQ6fTkTE=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "crgc1zp8xp"
+          "Value": "htjkat6rbj"
         },
         {
           "Name": "label",
@@ -37922,12 +37922,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-KIO5zNP2AI/47DsMjiDLTEi1WDkyq4+xbBL376q3dFE="
+          "Value": "sha256-q2B6wreJtPzFJDcF8XMRIwyVh/k/ZShxwhmAQ6fTkTE="
         }
       ]
     },
     {
-      "Route": "reviel.crgc1zp8xp.bundle.scp.css",
+      "Route": "reviel.htjkat6rbj.bundle.scp.css",
       "AssetFile": "C:\\Users\\LENOVO\\Desktop\\reviel\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\reviel.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -37937,7 +37937,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1124"
+          "Value": "932"
         },
         {
           "Name": "Content-Type",
@@ -37945,11 +37945,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"KIO5zNP2AI/47DsMjiDLTEi1WDkyq4+xbBL376q3dFE=\""
+          "Value": "\"q2B6wreJtPzFJDcF8XMRIwyVh/k/ZShxwhmAQ6fTkTE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 18 May 2025 12:52:25 GMT"
+          "Value": "Wed, 21 May 2025 17:28:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -37959,7 +37959,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "crgc1zp8xp"
+          "Value": "htjkat6rbj"
         },
         {
           "Name": "label",
@@ -37967,13 +37967,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-KIO5zNP2AI/47DsMjiDLTEi1WDkyq4+xbBL376q3dFE="
+          "Value": "sha256-q2B6wreJtPzFJDcF8XMRIwyVh/k/ZShxwhmAQ6fTkTE="
         }
       ]
     },
     {
-      "Route": "reviel.crgc1zp8xp.bundle.scp.css.gz",
-      "AssetFile": "C:\\Users\\LENOVO\\Desktop\\reviel\\obj\\Debug\\net9.0\\compressed\\h1kg0bplyx-crgc1zp8xp.gz",
+      "Route": "reviel.htjkat6rbj.bundle.scp.css.gz",
+      "AssetFile": "C:\\Users\\LENOVO\\Desktop\\reviel\\obj\\Debug\\net9.0\\compressed\\h1kg0bplyx-htjkat6rbj.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -37982,7 +37982,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "536"
+          "Value": "420"
         },
         {
           "Name": "Content-Type",
@@ -37990,11 +37990,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"TqeQNEtlkjGky/JJqjn6GBikRtxrPfNSXoYbQs5km90=\""
+          "Value": "\"6RsgLghLDGf10aRkvtiXkZ73PS71WV/emU7YTNSqn7I=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 18 May 2025 12:52:25 GMT"
+          "Value": "Wed, 21 May 2025 17:28:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -38012,7 +38012,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "crgc1zp8xp"
+          "Value": "htjkat6rbj"
         },
         {
           "Name": "label",
@@ -38020,18 +38020,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-TqeQNEtlkjGky/JJqjn6GBikRtxrPfNSXoYbQs5km90="
+          "Value": "sha256-6RsgLghLDGf10aRkvtiXkZ73PS71WV/emU7YTNSqn7I="
         }
       ]
     },
     {
-      "Route": "reviel.crgc1zp8xp.styles.css",
-      "AssetFile": "C:\\Users\\LENOVO\\Desktop\\reviel\\obj\\Debug\\net9.0\\compressed\\ugnlzk0g43-crgc1zp8xp.gz",
+      "Route": "reviel.htjkat6rbj.styles.css",
+      "AssetFile": "C:\\Users\\LENOVO\\Desktop\\reviel\\obj\\Debug\\net9.0\\compressed\\ugnlzk0g43-htjkat6rbj.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001862197393"
+          "Quality": "0.002375296912"
         }
       ],
       "ResponseHeaders": [
@@ -38041,15 +38041,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "536"
+          "Value": "420"
         },
         {
           "Name": "ETag",
-          "Value": "\"TqeQNEtlkjGky/JJqjn6GBikRtxrPfNSXoYbQs5km90=\""
+          "Value": "\"6RsgLghLDGf10aRkvtiXkZ73PS71WV/emU7YTNSqn7I=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 18 May 2025 12:52:25 GMT"
+          "Value": "Wed, 21 May 2025 17:28:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -38069,13 +38069,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"KIO5zNP2AI/47DsMjiDLTEi1WDkyq4+xbBL376q3dFE=\""
+          "Value": "W/\"q2B6wreJtPzFJDcF8XMRIwyVh/k/ZShxwhmAQ6fTkTE=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "crgc1zp8xp"
+          "Value": "htjkat6rbj"
         },
         {
           "Name": "label",
@@ -38083,12 +38083,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-KIO5zNP2AI/47DsMjiDLTEi1WDkyq4+xbBL376q3dFE="
+          "Value": "sha256-q2B6wreJtPzFJDcF8XMRIwyVh/k/ZShxwhmAQ6fTkTE="
         }
       ]
     },
     {
-      "Route": "reviel.crgc1zp8xp.styles.css",
+      "Route": "reviel.htjkat6rbj.styles.css",
       "AssetFile": "C:\\Users\\LENOVO\\Desktop\\reviel\\obj\\Debug\\net9.0\\scopedcss\\bundle\\reviel.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -38098,7 +38098,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1124"
+          "Value": "932"
         },
         {
           "Name": "Content-Type",
@@ -38106,11 +38106,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"KIO5zNP2AI/47DsMjiDLTEi1WDkyq4+xbBL376q3dFE=\""
+          "Value": "\"q2B6wreJtPzFJDcF8XMRIwyVh/k/ZShxwhmAQ6fTkTE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 18 May 2025 12:52:25 GMT"
+          "Value": "Wed, 21 May 2025 17:28:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -38120,7 +38120,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "crgc1zp8xp"
+          "Value": "htjkat6rbj"
         },
         {
           "Name": "label",
@@ -38128,13 +38128,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-KIO5zNP2AI/47DsMjiDLTEi1WDkyq4+xbBL376q3dFE="
+          "Value": "sha256-q2B6wreJtPzFJDcF8XMRIwyVh/k/ZShxwhmAQ6fTkTE="
         }
       ]
     },
     {
-      "Route": "reviel.crgc1zp8xp.styles.css.gz",
-      "AssetFile": "C:\\Users\\LENOVO\\Desktop\\reviel\\obj\\Debug\\net9.0\\compressed\\ugnlzk0g43-crgc1zp8xp.gz",
+      "Route": "reviel.htjkat6rbj.styles.css.gz",
+      "AssetFile": "C:\\Users\\LENOVO\\Desktop\\reviel\\obj\\Debug\\net9.0\\compressed\\ugnlzk0g43-htjkat6rbj.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -38143,7 +38143,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "536"
+          "Value": "420"
         },
         {
           "Name": "Content-Type",
@@ -38151,11 +38151,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"TqeQNEtlkjGky/JJqjn6GBikRtxrPfNSXoYbQs5km90=\""
+          "Value": "\"6RsgLghLDGf10aRkvtiXkZ73PS71WV/emU7YTNSqn7I=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 18 May 2025 12:52:25 GMT"
+          "Value": "Wed, 21 May 2025 17:28:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -38173,7 +38173,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "crgc1zp8xp"
+          "Value": "htjkat6rbj"
         },
         {
           "Name": "label",
@@ -38181,18 +38181,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-TqeQNEtlkjGky/JJqjn6GBikRtxrPfNSXoYbQs5km90="
+          "Value": "sha256-6RsgLghLDGf10aRkvtiXkZ73PS71WV/emU7YTNSqn7I="
         }
       ]
     },
     {
       "Route": "reviel.styles.css",
-      "AssetFile": "C:\\Users\\LENOVO\\Desktop\\reviel\\obj\\Debug\\net9.0\\compressed\\ugnlzk0g43-crgc1zp8xp.gz",
+      "AssetFile": "C:\\Users\\LENOVO\\Desktop\\reviel\\obj\\Debug\\net9.0\\compressed\\ugnlzk0g43-htjkat6rbj.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001862197393"
+          "Quality": "0.002375296912"
         }
       ],
       "ResponseHeaders": [
@@ -38202,15 +38202,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "536"
+          "Value": "420"
         },
         {
           "Name": "ETag",
-          "Value": "\"TqeQNEtlkjGky/JJqjn6GBikRtxrPfNSXoYbQs5km90=\""
+          "Value": "\"6RsgLghLDGf10aRkvtiXkZ73PS71WV/emU7YTNSqn7I=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 18 May 2025 12:52:25 GMT"
+          "Value": "Wed, 21 May 2025 17:28:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -38230,13 +38230,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"KIO5zNP2AI/47DsMjiDLTEi1WDkyq4+xbBL376q3dFE=\""
+          "Value": "W/\"q2B6wreJtPzFJDcF8XMRIwyVh/k/ZShxwhmAQ6fTkTE=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-KIO5zNP2AI/47DsMjiDLTEi1WDkyq4+xbBL376q3dFE="
+          "Value": "sha256-q2B6wreJtPzFJDcF8XMRIwyVh/k/ZShxwhmAQ6fTkTE="
         }
       ]
     },
@@ -38251,7 +38251,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1124"
+          "Value": "932"
         },
         {
           "Name": "Content-Type",
@@ -38259,11 +38259,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"KIO5zNP2AI/47DsMjiDLTEi1WDkyq4+xbBL376q3dFE=\""
+          "Value": "\"q2B6wreJtPzFJDcF8XMRIwyVh/k/ZShxwhmAQ6fTkTE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 18 May 2025 12:52:25 GMT"
+          "Value": "Wed, 21 May 2025 17:28:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -38273,13 +38273,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-KIO5zNP2AI/47DsMjiDLTEi1WDkyq4+xbBL376q3dFE="
+          "Value": "sha256-q2B6wreJtPzFJDcF8XMRIwyVh/k/ZShxwhmAQ6fTkTE="
         }
       ]
     },
     {
       "Route": "reviel.styles.css.gz",
-      "AssetFile": "C:\\Users\\LENOVO\\Desktop\\reviel\\obj\\Debug\\net9.0\\compressed\\ugnlzk0g43-crgc1zp8xp.gz",
+      "AssetFile": "C:\\Users\\LENOVO\\Desktop\\reviel\\obj\\Debug\\net9.0\\compressed\\ugnlzk0g43-htjkat6rbj.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -38288,7 +38288,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "536"
+          "Value": "420"
         },
         {
           "Name": "Content-Type",
@@ -38296,11 +38296,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"TqeQNEtlkjGky/JJqjn6GBikRtxrPfNSXoYbQs5km90=\""
+          "Value": "\"6RsgLghLDGf10aRkvtiXkZ73PS71WV/emU7YTNSqn7I=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 18 May 2025 12:52:25 GMT"
+          "Value": "Wed, 21 May 2025 17:28:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -38318,7 +38318,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-TqeQNEtlkjGky/JJqjn6GBikRtxrPfNSXoYbQs5km90="
+          "Value": "sha256-6RsgLghLDGf10aRkvtiXkZ73PS71WV/emU7YTNSqn7I="
         }
       ]
     }

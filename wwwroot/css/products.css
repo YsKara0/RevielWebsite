@@ -142,10 +142,10 @@
 /* Medium (md) ve üzeri ekranlar için */
 @media (min-width: 768px) {
     .display-4 {
-        font-size: 2.8rem; /* Biraz küçültüldü */
+        font-size: 2.8rem; 
     }
     .lead {
-        font-size: 1.1rem; /* Biraz küçültüldü */
+        font-size: 1.1rem; 
         margin-bottom: 3rem;
     }
     .filter-section .form-inline {
@@ -166,7 +166,7 @@
 /* Large (lg) ve üzeri ekranlar için */
 @media (min-width: 992px) {
     .display-4 {
-        font-size: 3rem; /* Biraz küçültüldü */
+        font-size: 3rem; 
     }
     .product-card img {
         height: 260px; /* Geniş ekranlarda resim yüksekliği */
@@ -177,19 +177,17 @@
 @media (max-width: 767.98px) {
     .filter-section .form-inline {
         flex-direction: row; /* Elemanları yan yana sarmaya izin ver */
-        align-items: center; /* Dikeyde ortala */
+        align-items: center; 
        
     }
     .filter-section .form-control {
-        flex: 1 1 auto; /* Esneklik ayarı */
-        min-width: 130px; /* Minimum genişlik azaltıldı */
+        flex: 1 1 auto; 
+        min-width: 130px; 
       
     }
     .filter-section .btn {
         width: auto; 
         flex-shrink: 0; /* Butonun küçülmemesini sağla */
-        /* padding: 0.4rem 0.8rem; /* Mobil için padding ayarı */
-        /* font-size: 0.85rem; /* Mobil için font ayarı */
         margin-bottom: 0; 
     }
     .filter-section label {

@@ -57,7 +57,7 @@ function initBeforeAfter() {
             x = e.touches[0].pageX;
         }
         
-        // Konteyner üzerindeki göreceli pozisyonu hesapla
+      
         const rect = container.getBoundingClientRect();
         const containerX = x - rect.left;
         const containerWidth = rect.width;

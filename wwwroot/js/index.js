@@ -14,10 +14,10 @@ document.addEventListener('DOMContentLoaded', function() {
     }
 });
 
-// Arka plan parçacıkları oluştur
+// Arka plan parçacıkları oluştur bu dongüde baloncuklar için birden fazla fonksıyon var baloncukların boyutları ve animasyonları rastgele ayarlanıyor
 function createParticles() {
     const heroSection = document.querySelector('.hero-section');
-    const particleCount = 30; // Sayı 20'den 30'a çıkarıldı - daha fazla baloncuk için
+    const particleCount = 30; 
     
     for (let i = 0; i < particleCount; i++) {
         const particle = document.createElement('div');

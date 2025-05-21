@@ -15,6 +15,6 @@ namespace reviel.Models
         public required string Description { get; set; }
         public string? ImagePath { get; set; } // Görsel yolu, null olabilir
         public string? Benefits { get; set; } // Egzamaya faydaları
-        public string? KeyIngredients { get; set; } // Anahtar içerikler
+        public string? KeyIngredients { get; set; } // Anahtar içerikleri ürünlerin
     }
 }

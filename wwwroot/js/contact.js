@@ -20,8 +20,7 @@ document.addEventListener('DOMContentLoaded', function() {
             console.log('Form verileri:', formValues);
             
             // Gerçek uygulamada bu kısımda bir API'ye istek gönderilir
-            
-            // Şimdilik sadece başarılı mesajı gösteriyoruz (geliştirme aşamasında)
+             // Şimdilik sadece başarılı mesajı gösteriyoruz (geliştirme aşamasında)
             showSuccessMessage();
             contactForm.reset();
         });

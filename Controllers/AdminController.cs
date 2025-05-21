@@ -97,6 +97,9 @@ namespace reviel.Controllers
             return View(product);
         }
 
+
+
+
         // GET: Admin/DeleteProduct
         public async Task<IActionResult> DeleteProduct(int? id)
         {
@@ -114,6 +117,9 @@ namespace reviel.Controllers
 
             return View(product);
         }
+
+
+
 
         // POST: Admin/DeleteProduct
         [HttpPost, ActionName("DeleteProduct")]
